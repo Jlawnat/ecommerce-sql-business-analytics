@@ -173,6 +173,7 @@
     "ci_95_low": 0.43667967200620045,
     "difference": 0.4480020241369705,
     "p_value": 0.0,
+    "p_value_reporting": "<1e-300",
     "proportion_a": 0.5398773006134969,
     "proportion_b": 0.09187527647652644,
     "z_statistic": 112.696734991689
@@ -188,6 +189,7 @@
     "mean_a": 2.566506,
     "mean_b": 4.294292,
     "p_value": 0.0,
+    "p_value_reporting": "<1e-300",
     "standard_error": 0.01932983804821389,
     "z_statistic_large_sample": -89.38440123970159
   },
@@ -300,6 +302,7 @@
     "cmh_z_statistic": 91.62219479150473,
     "common_odds_ratio": 10.542951119221373,
     "p_value": 0.0,
+    "p_value_reporting": "<1e-300",
     "usable_strata": 1003
   }
 }

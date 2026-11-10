@@ -16,6 +16,7 @@ DEFAULT_FILES = (
     "06_rfm_segmentation.sql",
     "07_sales_category_trends.sql",
     "08_delivery_segment_analysis.sql",
+    "09_repeat_purchase_research.sql",
 )
 
 

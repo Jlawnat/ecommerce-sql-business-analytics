@@ -146,6 +146,8 @@ def calculate_statistics(results: dict[str, list[dict]]) -> dict:
     )
     late_ci = wilson_interval(late["low_review_orders"], late["reviewed_orders"])
     on_time_ci = wilson_interval(on_time["low_review_orders"], on_time["reviewed_orders"])
+    mean_test["p_value_reporting"] = "<1e-300" if mean_test["p_value"] == 0.0 else f"{mean_test['p_value']:.6g}"
+    low_test["p_value_reporting"] = "<1e-300" if low_test["p_value"] == 0.0 else f"{low_test['p_value']:.6g}"
     state_intervals = {}
     for row in results["delivery_by_state"]:
         if row["timing_eligible_orders"] >= 500:
@@ -162,13 +164,15 @@ def calculate_statistics(results: dict[str, list[dict]]) -> dict:
                 "orders": row["timing_eligible_orders"], "rate": row["late_orders"] / row["timing_eligible_orders"],
                 "ci_95_low": low, "ci_95_high": high,
             }
+    cmh = stratified_cmh(results["delivery_strata"])
+    cmh["p_value_reporting"] = "<1e-300" if cmh["p_value"] == 0.0 else f"{cmh['p_value']:.6g}"
     return {
         "analysis_cutoff": "2018-09-01 00:00:00",
         "review_score_mean_difference_late_minus_on_time": mean_test,
         "low_review_share_difference_late_minus_on_time": low_test,
         "late_low_review_share_wilson_95_ci": {"low": late_ci[0], "high": late_ci[1]},
         "on_time_low_review_share_wilson_95_ci": {"low": on_time_ci[0], "high": on_time_ci[1]},
-        "stratified_low_review_association": stratified_cmh(results["delivery_strata"]),
+        "stratified_low_review_association": cmh,
         "state_late_rate_wilson_95_ci_minimum_500_orders": state_intervals,
         "category_late_rate_wilson_95_ci_minimum_500_orders": category_intervals,
         "assumptions": [

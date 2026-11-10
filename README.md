@@ -1,6 +1,6 @@
 # Olist Ecommerce SQL Business Analytics
 
-A reproducible, portfolio-oriented SQL and Python case study built from the **Olist Brazilian E-Commerce Public Dataset** (anonymized marketplace orders from 2016–2018). Phase 1 creates and validates the SQLite foundation. Phase 2 adds cohort retention, RFM segmentation, sales/category intelligence, delivery/satisfaction inference, and reproducible static visualizations.
+A reproducible, portfolio-oriented SQL and Python case study built from the **Olist Brazilian E-Commerce Public Dataset** (anonymized marketplace orders from 2016–2018). Phase 1 creates and validates the SQLite foundation. Phase 2 adds cohort, RFM, sales/category, and delivery analytics. Phase 2.5 independently audits those results and adds a tested analytical mart, censor-aware repeat-purchase research, adjusted observational models, sensitivity analyses, and a prospective decision framework.
 
 ## What is included
 
@@ -15,6 +15,10 @@ A reproducible, portfolio-oriented SQL and Python case study built from the **Ol
 - Boundary-aware monthly trends, category Pareto analysis, and comparable category-mix changes
 - State/category delivery diagnostics plus order-level confidence intervals and stratified association testing
 - Standard-library Python pipeline producing auditable CSV/JSON outputs and five portable SVG charts
+- Separate four-grain analytics mart with 12 blocking uniqueness, relationship, null, and reconciliation assertions
+- Kaplan–Meier time-to-second-purchase estimates with Greenwood intervals and cutoff sensitivity
+- Adjusted grouped-binomial logistic models with absolute-risk standardization, diagnostics, subgroup heterogeneity, and missing-review sensitivity
+- Independent real-data audit tests and research documentation grounded in established methods
 
 ## Repository layout
 
@@ -25,6 +29,7 @@ docs/              # Source, dictionary, metric, and quality documentation
 reports/           # Reproducible run reports
 scripts/           # User-facing build and analysis commands
 sql/schema/        # SQLite DDL
+sql/marts/         # Separate analytical-mart build and validation SQL
 sql/analysis/      # Quality checks and business queries
 src/               # Ingestion implementation and source manifest
 tests/             # Small synthetic fixtures and behavior tests
@@ -62,6 +67,15 @@ Requirements: Python 3.11 or newer. Both phases use only the Python standard lib
 
    This writes SQL-derived CSV extracts and `statistical_results.json` to `reports/phase2_outputs/`, plus five SVG files to `visualizations/`. Re-running the command replaces files with deterministic outputs from the selected database.
 
+6. Build and validate the separate Phase 2.5 analytical mart, then run the research analyses:
+
+   ```bash
+   python3 scripts/build_analytics_mart.py
+   python3 scripts/phase25_research.py
+   ```
+
+   The mart is written to ignored `data/processed/olist_analytics.sqlite`; source tables are not modified. Research evidence is written to `reports/phase25_outputs/` with two additional SVG charts.
+
 Run one analysis only with, for example:
 
 ```bash
@@ -86,4 +100,8 @@ This public historical dataset is not the author's Shopify store. It does not co
 - [Data-quality framework](docs/DATA_QUALITY.md)
 - [Phase 1 run status](reports/PHASE1_RESULTS.md)
 - [Phase 2 advanced analytics results](reports/PHASE2_RESULTS.md)
+- [Phase 2.5 independent audit](docs/PHASE25_AUDIT.md)
+- [Phase 2.5 statistical methods](docs/PHASE25_STATISTICAL_METHODS.md)
+- [Phase 2.5 research results](reports/PHASE25_RESEARCH_RESULTS.md)
+- [Phase 2.5 executive brief](reports/PHASE25_EXECUTIVE_BRIEF.md)
 SQL and Python analytics on real-world ecommerce data
