@@ -1,2 +1,3 @@
 # Phase 1 intentionally uses only the Python standard library.
 # Tested with Python 3.11+; sqlite3 is bundled with Python.
+# Phase 2 also uses only the standard library; charts are portable SVG files.

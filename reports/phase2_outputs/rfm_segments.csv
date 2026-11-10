@@ -1,0 +1,8 @@
+rfm_segment,customers,customer_share_pct,merchandise_value,merchandise_share_pct,avg_purchase_frequency,repeat_customer_share_pct
+Inactive in observed window,36392,38.98,5080115.48,38.42,1.0,0.0
+High-value one-time customers,8084,8.66,3628016.2,27.44,1.0,0.0
+Recent customers,30822,33.01,2541320.44,19.22,1.0,0.0
+Other established customers,15259,16.34,1243637.24,9.41,1.0,0.0
+Champions,571,0.61,250938.61,1.9,2.27,100.0
+Repeat customers at risk,997,1.07,248766.51,1.88,2.08,100.0
+Loyal repeat customers,1233,1.32,228703.63,1.73,2.07,100.0

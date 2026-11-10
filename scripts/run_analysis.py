@@ -12,6 +12,10 @@ DEFAULT_FILES = (
     "02_category_sales_concentration.sql",
     "03_late_delivery_review_scores.sql",
     "04_kpi_summary.sql",
+    "05_customer_cohort_retention.sql",
+    "06_rfm_segmentation.sql",
+    "07_sales_category_trends.sql",
+    "08_delivery_segment_analysis.sql",
 )
 
 
@@ -28,7 +32,7 @@ def iter_statements(sql_text: str):
 
 
 def main() -> int:
-    parser = argparse.ArgumentParser(description="Run Olist quality checks and Phase 1 analyses")
+    parser = argparse.ArgumentParser(description="Run Olist quality checks and checked-in business analyses")
     parser.add_argument("--database", type=Path, default=PROJECT_ROOT / "data" / "processed" / "olist.sqlite")
     parser.add_argument("--query", choices=DEFAULT_FILES, action="append")
     args = parser.parse_args()
