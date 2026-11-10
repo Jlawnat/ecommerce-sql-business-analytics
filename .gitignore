@@ -1,0 +1,38 @@
+# Source data and generated databases
+data/raw/*
+!data/raw/.gitkeep
+data/processed/*
+!data/processed/.gitkeep
+*.db
+*.sqlite
+*.sqlite3
+*.db-journal
+*.db-wal
+*.db-shm
+
+# Credentials and local configuration
+.env
+.env.*
+!.env.example
+kaggle.json
+.kaggle/
+secrets/
+
+# Python/editor/test artifacts
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+htmlcov/
+.venv/
+venv/
+.idea/
+.vscode/
+.DS_Store
+
+# Large/generated exports
+*.zip
+*.parquet
+*.feather
+reports/generated/
+visualizations/generated/
