@@ -1,6 +1,10 @@
 # Olist Ecommerce SQL Business Analytics
 
-A reproducible, portfolio-oriented SQL and Python case study built from the **Olist Brazilian E-Commerce Public Dataset** (anonymized marketplace orders from 2016–2018). Phase 1 creates and validates the SQLite foundation. Phase 2 adds cohort, RFM, sales/category, and delivery analytics. Phase 2.5 independently audits those results and adds a tested analytical mart, censor-aware repeat-purchase research, adjusted observational models, sensitivity analyses, and a prospective decision framework.
+A reproducible SQL, statistical research, and interactive analytics portfolio built from the **Olist Brazilian E-Commerce Public Dataset** (anonymized marketplace orders from 2016–2018). Phase 3 presents the verified Phase 1–2.5 evidence through a responsive Streamlit and Plotly dashboard without redefining historical metrics.
+
+![Executive overview dashboard](visualizations/screenshots/executive-overview-desktop.jpg)
+
+> Historical research only. The observation window ends in August 2018; delivery/review results are associations, not causal effects or current-market estimates.
 
 ## What is included
 
@@ -19,6 +23,8 @@ A reproducible, portfolio-oriented SQL and Python case study built from the **Ol
 - Kaplan–Meier time-to-second-purchase estimates with Greenwood intervals and cutoff sensitivity
 - Adjusted grouped-binomial logistic models with absolute-risk standardization, diagnostics, subgroup heterogeneity, and missing-review sensitivity
 - Independent real-data audit tests and research documentation grounded in established methods
+- Four-page Streamlit portfolio dashboard with Plotly tooltips, uncertainty, censoring, lineage, and responsive layouts
+- Aggregate-only data contracts, safe downloads, useful missing-data states, and automated dashboard smoke tests
 
 ## Repository layout
 
@@ -34,11 +40,33 @@ sql/analysis/      # Quality checks and business queries
 src/               # Ingestion implementation and source manifest
 tests/             # Small synthetic fixtures and behavior tests
 visualizations/    # Reproducible Phase 2 static SVG charts
+dashboard/         # Phase 3 contracts, charts, and shared UI
+app/               # Streamlit entrypoint and four analytical pages
 ```
 
 ## Quick start
 
-Requirements: Python 3.11 or newer. Both phases use only the Python standard library.
+Requirements: Python 3.11 or newer. Phase 1–2.5 pipelines use the standard library; the Phase 3 app adds pandas, Plotly, and Streamlit.
+
+### Launch the portfolio dashboard
+
+The checked-in aggregate outputs are sufficient; raw CSVs and SQLite files are not required to view the dashboard.
+
+```bash
+python3 -m venv .venv
+.venv/bin/python -m pip install -r requirements.txt
+.venv/bin/streamlit run app/streamlit_app.py
+```
+
+Open `http://localhost:8501`. The app contains Executive Overview, Customer Intelligence, Delivery & Satisfaction Research, and Methodology & Reproducibility pages.
+
+![Customer intelligence dashboard](visualizations/screenshots/customer-intelligence-desktop.jpg)
+
+![Delivery research dashboard](visualizations/screenshots/delivery-research-desktop.jpg)
+
+For Streamlit Community Cloud, choose `app/streamlit_app.py` as the entrypoint. See [Phase 3 data contracts](docs/PHASE3_DATA_CONTRACTS.md) and the [implementation record](reports/PHASE3_IMPLEMENTATION.md) for other deployment options and the precomputed/dynamic boundary.
+
+### Rebuild the research source data
 
 1. Obtain the dataset using [docs/DATA_SOURCE.md](docs/DATA_SOURCE.md) and place all nine CSVs directly in `data/raw/`.
 2. Build the database:
@@ -56,7 +84,7 @@ Requirements: Python 3.11 or newer. Both phases use only the Python standard lib
 4. Run the tests:
 
    ```bash
-   python3 -m unittest discover -s tests -v
+   .venv/bin/python -m unittest discover -s tests -v
    ```
 
 5. Generate Phase 2 evidence files and all charts:
@@ -104,4 +132,5 @@ This public historical dataset is not the author's Shopify store. It does not co
 - [Phase 2.5 statistical methods](docs/PHASE25_STATISTICAL_METHODS.md)
 - [Phase 2.5 research results](reports/PHASE25_RESEARCH_RESULTS.md)
 - [Phase 2.5 executive brief](reports/PHASE25_EXECUTIVE_BRIEF.md)
-SQL and Python analytics on real-world ecommerce data
+- [Phase 3 dashboard data contracts](docs/PHASE3_DATA_CONTRACTS.md)
+- [Phase 3 implementation and QA record](reports/PHASE3_IMPLEMENTATION.md)

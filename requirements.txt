@@ -2,3 +2,8 @@
 # Tested with Python 3.11+; sqlite3 is bundled with Python.
 # Phase 2 also uses only the standard library; charts are portable SVG files.
 # Phase 2.5 keeps the same zero-dependency policy; logistic/KM methods are tested local implementations.
+
+# Phase 3 interactive portfolio dependencies.
+streamlit>=1.42,<2
+pandas>=2.2,<3
+plotly>=5.24,<7

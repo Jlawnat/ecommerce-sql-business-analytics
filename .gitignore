@@ -29,6 +29,7 @@ venv/
 .idea/
 .vscode/
 .DS_Store
+.taste-skill/
 
 # Large/generated exports
 *.zip

@@ -1,0 +1,13 @@
+[theme]
+base = "light"
+primaryColor = "#141414"
+backgroundColor = "#f2f4f7"
+secondaryBackgroundColor = "#ffffff"
+textColor = "#141414"
+font = "Geist:https://fonts.googleapis.com/css2?family=Geist:wght@400;500;600&display=swap, sans-serif"
+
+[browser]
+gatherUsageStats = false
+
+[server]
+headless = true
