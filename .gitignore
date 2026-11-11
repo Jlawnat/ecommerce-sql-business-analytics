@@ -37,3 +37,22 @@ venv/
 *.feather
 reports/generated/
 visualizations/generated/
+
+# Next.js generated files
+/web/.next/
+/web/node_modules/
+/web/out/
+/web/coverage/
+/web/.turbo/
+/web/.env*
+!/web/.env.example
+
+# Next.js
+web/node_modules/
+web/.next/
+web/out/
+web/coverage/
+web/.turbo/
+web/tsconfig.tsbuildinfo
+web/.env*
+!web/.env.example

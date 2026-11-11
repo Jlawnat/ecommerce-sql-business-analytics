@@ -1,0 +1,370 @@
+{
+  "categories": [
+    {
+      "category": "health_beauty",
+      "cumulativeSharePct": 9.33,
+      "deliveredOrders": 8647,
+      "inFirst80Pct": true,
+      "merchandiseValue": 1233131.72,
+      "rank": 1,
+      "sharePct": 9.33
+    },
+    {
+      "category": "watches_gifts",
+      "cumulativeSharePct": 18.15,
+      "deliveredOrders": 5495,
+      "inFirst80Pct": true,
+      "merchandiseValue": 1166176.98,
+      "rank": 2,
+      "sharePct": 8.82
+    },
+    {
+      "category": "bed_bath_table",
+      "cumulativeSharePct": 25.89,
+      "deliveredOrders": 9272,
+      "inFirst80Pct": true,
+      "merchandiseValue": 1023434.76,
+      "rank": 3,
+      "sharePct": 7.74
+    },
+    {
+      "category": "sports_leisure",
+      "cumulativeSharePct": 33.11,
+      "deliveredOrders": 7530,
+      "inFirst80Pct": true,
+      "merchandiseValue": 954852.55,
+      "rank": 4,
+      "sharePct": 7.22
+    },
+    {
+      "category": "computers_accessories",
+      "cumulativeSharePct": 39.83,
+      "deliveredOrders": 6530,
+      "inFirst80Pct": true,
+      "merchandiseValue": 888724.61,
+      "rank": 5,
+      "sharePct": 6.72
+    },
+    {
+      "category": "furniture_decor",
+      "cumulativeSharePct": 45.22,
+      "deliveredOrders": 6307,
+      "inFirst80Pct": true,
+      "merchandiseValue": 711927.69,
+      "rank": 6,
+      "sharePct": 5.38
+    },
+    {
+      "category": "housewares",
+      "cumulativeSharePct": 49.87,
+      "deliveredOrders": 5743,
+      "inFirst80Pct": true,
+      "merchandiseValue": 615628.69,
+      "rank": 7,
+      "sharePct": 4.66
+    },
+    {
+      "category": "cool_stuff",
+      "cumulativeSharePct": 54.49,
+      "deliveredOrders": 3559,
+      "inFirst80Pct": true,
+      "merchandiseValue": 610204.1,
+      "rank": 8,
+      "sharePct": 4.62
+    },
+    {
+      "category": "auto",
+      "cumulativeSharePct": 58.87,
+      "deliveredOrders": 3810,
+      "inFirst80Pct": true,
+      "merchandiseValue": 578966.65,
+      "rank": 9,
+      "sharePct": 4.38
+    },
+    {
+      "category": "toys",
+      "cumulativeSharePct": 62.43,
+      "deliveredOrders": 3804,
+      "inFirst80Pct": true,
+      "merchandiseValue": 471286.48,
+      "rank": 10,
+      "sharePct": 3.56
+    },
+    {
+      "category": "garden_tools",
+      "cumulativeSharePct": 65.99,
+      "deliveredOrders": 3448,
+      "inFirst80Pct": true,
+      "merchandiseValue": 470495.28,
+      "rank": 11,
+      "sharePct": 3.56
+    },
+    {
+      "category": "baby",
+      "cumulativeSharePct": 69.02,
+      "deliveredOrders": 2809,
+      "inFirst80Pct": true,
+      "merchandiseValue": 400421.84,
+      "rank": 12,
+      "sharePct": 3.03
+    },
+    {
+      "category": "perfumery",
+      "cumulativeSharePct": 71.97,
+      "deliveredOrders": 3086,
+      "inFirst80Pct": true,
+      "merchandiseValue": 390144.65,
+      "rank": 13,
+      "sharePct": 2.95
+    },
+    {
+      "category": "telephony",
+      "cumulativeSharePct": 74.31,
+      "deliveredOrders": 4093,
+      "inFirst80Pct": true,
+      "merchandiseValue": 309860.23,
+      "rank": 14,
+      "sharePct": 2.34
+    },
+    {
+      "category": "office_furniture",
+      "cumulativeSharePct": 76.34,
+      "deliveredOrders": 1254,
+      "inFirst80Pct": true,
+      "merchandiseValue": 268154.31,
+      "rank": 15,
+      "sharePct": 2.03
+    },
+    {
+      "category": "stationery",
+      "cumulativeSharePct": 78.03,
+      "deliveredOrders": 2264,
+      "inFirst80Pct": true,
+      "merchandiseValue": 223788.69,
+      "rank": 16,
+      "sharePct": 1.69
+    },
+    {
+      "category": "computers",
+      "cumulativeSharePct": 79.69,
+      "deliveredOrders": 177,
+      "inFirst80Pct": true,
+      "merchandiseValue": 218684.14,
+      "rank": 17,
+      "sharePct": 1.65
+    },
+    {
+      "category": "pet_shop",
+      "cumulativeSharePct": 81.29,
+      "deliveredOrders": 1688,
+      "inFirst80Pct": true,
+      "merchandiseValue": 211695.64,
+      "rank": 18,
+      "sharePct": 1.6
+    },
+    {
+      "category": "musical_instruments",
+      "cumulativeSharePct": 82.68,
+      "deliveredOrders": 611,
+      "inFirst80Pct": false,
+      "merchandiseValue": 184315.74,
+      "rank": 19,
+      "sharePct": 1.39
+    },
+    {
+      "category": "small_appliances",
+      "cumulativeSharePct": 84.06,
+      "deliveredOrders": 609,
+      "inFirst80Pct": false,
+      "merchandiseValue": 182754.12,
+      "rank": 20,
+      "sharePct": 1.38
+    }
+  ],
+  "dataset": {
+    "name": "Olist Brazilian E-Commerce Public Dataset",
+    "observationEnd": "2018-08",
+    "observationWindow": "2016-09 to 2018-08",
+    "status": "verified_historical_snapshot"
+  },
+  "lineage": {
+    "categorySource": "reports/phase2_outputs/category_pareto.csv",
+    "categorySql": "sql/analysis/07_sales_category_trends.sql",
+    "monthlySource": "reports/phase2_outputs/monthly_sales.csv",
+    "monthlySql": "sql/analysis/07_sales_category_trends.sql"
+  },
+  "monthly": [
+    {
+      "averageOrderValue": 134.97,
+      "deliveredOrders": 1,
+      "merchandiseValue": 134.97,
+      "month": "2016-09",
+      "observationStatus": "incomplete_first_month"
+    },
+    {
+      "averageOrderValue": 152.17,
+      "deliveredOrders": 265,
+      "merchandiseValue": 40325.11,
+      "month": "2016-10",
+      "observationStatus": "complete_or_well_represented"
+    },
+    {
+      "averageOrderValue": 10.9,
+      "deliveredOrders": 1,
+      "merchandiseValue": 10.9,
+      "month": "2016-12",
+      "observationStatus": "sparse_month"
+    },
+    {
+      "averageOrderValue": 149.06,
+      "deliveredOrders": 750,
+      "merchandiseValue": 111798.36,
+      "month": "2017-01",
+      "observationStatus": "complete_or_well_represented"
+    },
+    {
+      "averageOrderValue": 141.7,
+      "deliveredOrders": 1653,
+      "merchandiseValue": 234223.4,
+      "month": "2017-02",
+      "observationStatus": "complete_or_well_represented"
+    },
+    {
+      "averageOrderValue": 141.08,
+      "deliveredOrders": 2546,
+      "merchandiseValue": 359198.85,
+      "month": "2017-03",
+      "observationStatus": "complete_or_well_represented"
+    },
+    {
+      "averageOrderValue": 147.92,
+      "deliveredOrders": 2303,
+      "merchandiseValue": 340669.68,
+      "month": "2017-04",
+      "observationStatus": "complete_or_well_represented"
+    },
+    {
+      "averageOrderValue": 138.0,
+      "deliveredOrders": 3546,
+      "merchandiseValue": 489338.25,
+      "month": "2017-05",
+      "observationStatus": "complete_or_well_represented"
+    },
+    {
+      "averageOrderValue": 134.58,
+      "deliveredOrders": 3135,
+      "merchandiseValue": 421923.37,
+      "month": "2017-06",
+      "observationStatus": "complete_or_well_represented"
+    },
+    {
+      "averageOrderValue": 124.38,
+      "deliveredOrders": 3872,
+      "merchandiseValue": 481604.52,
+      "month": "2017-07",
+      "observationStatus": "complete_or_well_represented"
+    },
+    {
+      "averageOrderValue": 132.29,
+      "deliveredOrders": 4193,
+      "merchandiseValue": 554699.7,
+      "month": "2017-08",
+      "observationStatus": "complete_or_well_represented"
+    },
+    {
+      "averageOrderValue": 146.36,
+      "deliveredOrders": 4150,
+      "merchandiseValue": 607399.67,
+      "month": "2017-09",
+      "observationStatus": "complete_or_well_represented"
+    },
+    {
+      "averageOrderValue": 144.76,
+      "deliveredOrders": 4478,
+      "merchandiseValue": 648247.65,
+      "month": "2017-10",
+      "observationStatus": "complete_or_well_represented"
+    },
+    {
+      "averageOrderValue": 135.51,
+      "deliveredOrders": 7289,
+      "merchandiseValue": 987765.37,
+      "month": "2017-11",
+      "observationStatus": "complete_or_well_represented"
+    },
+    {
+      "averageOrderValue": 131.69,
+      "deliveredOrders": 5513,
+      "merchandiseValue": 726033.19,
+      "month": "2017-12",
+      "observationStatus": "complete_or_well_represented"
+    },
+    {
+      "averageOrderValue": 130.8,
+      "deliveredOrders": 7069,
+      "merchandiseValue": 924645.0,
+      "month": "2018-01",
+      "observationStatus": "complete_or_well_represented"
+    },
+    {
+      "averageOrderValue": 126.08,
+      "deliveredOrders": 6555,
+      "merchandiseValue": 826437.13,
+      "month": "2018-02",
+      "observationStatus": "complete_or_well_represented"
+    },
+    {
+      "averageOrderValue": 136.14,
+      "deliveredOrders": 7003,
+      "merchandiseValue": 953356.25,
+      "month": "2018-03",
+      "observationStatus": "complete_or_well_represented"
+    },
+    {
+      "averageOrderValue": 143.21,
+      "deliveredOrders": 6798,
+      "merchandiseValue": 973534.09,
+      "month": "2018-04",
+      "observationStatus": "complete_or_well_represented"
+    },
+    {
+      "averageOrderValue": 144.84,
+      "deliveredOrders": 6749,
+      "merchandiseValue": 977544.69,
+      "month": "2018-05",
+      "observationStatus": "complete_or_well_represented"
+    },
+    {
+      "averageOrderValue": 140.36,
+      "deliveredOrders": 6099,
+      "merchandiseValue": 856077.86,
+      "month": "2018-06",
+      "observationStatus": "complete_or_well_represented"
+    },
+    {
+      "averageOrderValue": 140.92,
+      "deliveredOrders": 6159,
+      "merchandiseValue": 867953.46,
+      "month": "2018-07",
+      "observationStatus": "complete_or_well_represented"
+    },
+    {
+      "averageOrderValue": 132.04,
+      "deliveredOrders": 6351,
+      "merchandiseValue": 838576.64,
+      "month": "2018-08",
+      "observationStatus": "incomplete_last_month"
+    }
+  ],
+  "schemaVersion": 1,
+  "summary": {
+    "averageOrderValue": 137.04,
+    "categoriesToReach80Pct": 18,
+    "deliveredOrders": 96478,
+    "merchandiseValue": 13221498.11,
+    "thresholdCategory": "pet_shop",
+    "thresholdCumulativeSharePct": 81.29,
+    "topCategory": "health_beauty",
+    "topCategorySharePct": 9.33
+  }
+}
