@@ -1,5 +1,6 @@
 import json
 import re
+import struct
 import tempfile
 import unittest
 from pathlib import Path
@@ -9,6 +10,7 @@ from scripts.check_repository import (
     check_markdown_structure,
     check_mermaid_blocks,
     check_privacy_paths,
+    check_readme_screenshots,
 )
 
 
@@ -76,6 +78,19 @@ class RepositoryHygieneTests(unittest.TestCase):
         ]
         errors = check_privacy_paths(paths)
         self.assertEqual(len(errors), len(paths))
+
+    def test_readme_screenshot_must_be_tracked(self):
+        with tempfile.TemporaryDirectory() as directory:
+            root = Path(directory)
+            target = "visualizations/screenshots/v2/example.png"
+            screenshot = root / target
+            screenshot.parent.mkdir(parents=True)
+            screenshot.write_bytes(b"\x89PNG\r\n\x1a\n" + b"\x00" * 8 + struct.pack(">II", 1024, 900))
+            (root / "README.md").write_text(f"![Example]({target})\n", encoding="utf-8")
+
+            errors = check_readme_screenshots(root, tracked_paths=set())
+
+        self.assertEqual(errors, [f"README.md: screenshot is not tracked by Git: {target}"])
 
 
 if __name__ == "__main__":

@@ -153,6 +153,15 @@ def _candidate_paths(root: Path) -> list[str]:
     return [item.decode() for item in result.stdout.split(b"\0") if item]
 
 
+def _tracked_paths(root: Path) -> set[str]:
+    result = subprocess.run(
+        ["git", "-C", str(root), "ls-files", "--cached", "-z"],
+        check=True,
+        capture_output=True,
+    )
+    return {item.decode() for item in result.stdout.split(b"\0") if item}
+
+
 def check_sensitive_content(root: Path, paths: list[str]) -> list[str]:
     errors: list[str] = []
     secret_patterns = {
@@ -185,7 +194,7 @@ def _png_dimensions(path: Path) -> tuple[int, int] | None:
     return struct.unpack(">II", header[16:24])
 
 
-def check_readme_screenshots(root: Path) -> list[str]:
+def check_readme_screenshots(root: Path, tracked_paths: set[str] | None = None) -> list[str]:
     errors: list[str] = []
     readme = root / "README.md"
     if not readme.is_file():
@@ -198,6 +207,8 @@ def check_readme_screenshots(root: Path) -> list[str]:
         if not path.is_file():
             errors.append(f"README.md: missing screenshot: {target}")
             continue
+        if tracked_paths is not None and target not in tracked_paths:
+            errors.append(f"README.md: screenshot is not tracked by Git: {target}")
         dimensions = _png_dimensions(path)
         if dimensions is None:
             errors.append(f"README.md: invalid PNG screenshot: {target}")
@@ -227,13 +238,14 @@ def check_ci_definition(root: Path) -> list[str]:
 def run(root: Path = PROJECT_ROOT) -> list[str]:
     files = markdown_files(root)
     paths = _candidate_paths(root)
+    tracked_paths = _tracked_paths(root)
     errors = []
     errors.extend(check_markdown_links(root, files))
     errors.extend(check_markdown_structure(files))
     errors.extend(check_mermaid_blocks(files))
     errors.extend(check_privacy_paths(paths))
     errors.extend(check_sensitive_content(root, paths))
-    errors.extend(check_readme_screenshots(root))
+    errors.extend(check_readme_screenshots(root, tracked_paths))
     errors.extend(check_ci_definition(root))
     if errors:
         return errors
