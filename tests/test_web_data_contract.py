@@ -15,6 +15,31 @@ SPEC.loader.exec_module(publisher)
 
 
 class WebAggregateContractTests(unittest.TestCase):
+    def test_methodology_catalogue_links_only_tracked_safe_evidence(self):
+        catalogue = ROOT / "web/lib/methodology-content.ts"
+        self.assertTrue(catalogue.exists(), "Methodology evidence catalogue is missing")
+        source = catalogue.read_text(encoding="utf-8")
+        forbidden = (
+            "data/raw/",
+            ".sqlite",
+            "rfm_customers.csv",
+            "delivery_model_population.csv",
+        )
+        for value in forbidden:
+            self.assertNotIn(value, source)
+
+        import re
+
+        linked_paths = set(
+            re.findall(
+                r'"((?:docs|reports|sql|scripts|tests|web)/[^"?#]+(?:\.md|\.sql|\.py|\.json|\.csv|\.tsx?))"',
+                source,
+            )
+        )
+        self.assertGreaterEqual(len(linked_paths), 12)
+        for relative_path in linked_paths:
+            self.assertTrue((ROOT / relative_path).is_file(), relative_path)
+
     def test_contract_reconciles_verified_executive_metrics(self):
         payload = publisher.build_contract()
         self.assertEqual(payload["schemaVersion"], 1)

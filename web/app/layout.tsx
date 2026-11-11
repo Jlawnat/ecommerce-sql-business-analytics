@@ -6,7 +6,10 @@ import "@fontsource/ibm-plex-mono/400.css";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Olist Evidence Lab · Executive Overview",
+  title: {
+    default: "Olist Evidence Lab",
+    template: "%s · Olist Evidence Lab",
+  },
   description: "Verified historical Olist ecommerce evidence for executive decisions.",
 };
 

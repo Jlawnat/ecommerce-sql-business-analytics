@@ -8,7 +8,7 @@ const destinations = [
   { label: "Executive overview", icon: BarChart3, href: "/" },
   { label: "Customer intelligence", icon: UsersRound, href: "/customer-intelligence" },
   { label: "Delivery & satisfaction", icon: PackageCheck, href: "/delivery-satisfaction" },
-  { label: "Methodology", icon: BookOpen },
+  { label: "Methodology", icon: BookOpen, href: "/methodology" },
 ];
 
 export function SidebarNavigation({ onNavigate }: { onNavigate?: () => void }) {
