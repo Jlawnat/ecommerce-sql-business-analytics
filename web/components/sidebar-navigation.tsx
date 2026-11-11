@@ -7,7 +7,7 @@ import { BarChart3, BookOpen, PackageCheck, UsersRound } from "lucide-react";
 const destinations = [
   { label: "Executive overview", icon: BarChart3, href: "/" },
   { label: "Customer intelligence", icon: UsersRound, href: "/customer-intelligence" },
-  { label: "Delivery & satisfaction", icon: PackageCheck },
+  { label: "Delivery & satisfaction", icon: PackageCheck, href: "/delivery-satisfaction" },
   { label: "Methodology", icon: BookOpen },
 ];
 
