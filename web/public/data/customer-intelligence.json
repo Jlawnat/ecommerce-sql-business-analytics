@@ -1,0 +1,4566 @@
+{
+  "cohorts": [
+    {
+      "acquiredCustomers": 1,
+      "cohortMonth": "2016-09",
+      "monthNumber": 0,
+      "observed": true,
+      "retainedCustomers": 1,
+      "retentionRatePct": 100.0
+    },
+    {
+      "acquiredCustomers": 1,
+      "cohortMonth": "2016-09",
+      "monthNumber": 1,
+      "observed": true,
+      "retainedCustomers": 0,
+      "retentionRatePct": 0.0
+    },
+    {
+      "acquiredCustomers": 1,
+      "cohortMonth": "2016-09",
+      "monthNumber": 2,
+      "observed": true,
+      "retainedCustomers": 0,
+      "retentionRatePct": 0.0
+    },
+    {
+      "acquiredCustomers": 1,
+      "cohortMonth": "2016-09",
+      "monthNumber": 3,
+      "observed": true,
+      "retainedCustomers": 0,
+      "retentionRatePct": 0.0
+    },
+    {
+      "acquiredCustomers": 1,
+      "cohortMonth": "2016-09",
+      "monthNumber": 4,
+      "observed": true,
+      "retainedCustomers": 0,
+      "retentionRatePct": 0.0
+    },
+    {
+      "acquiredCustomers": 1,
+      "cohortMonth": "2016-09",
+      "monthNumber": 5,
+      "observed": true,
+      "retainedCustomers": 0,
+      "retentionRatePct": 0.0
+    },
+    {
+      "acquiredCustomers": 1,
+      "cohortMonth": "2016-09",
+      "monthNumber": 6,
+      "observed": true,
+      "retainedCustomers": 0,
+      "retentionRatePct": 0.0
+    },
+    {
+      "acquiredCustomers": 1,
+      "cohortMonth": "2016-09",
+      "monthNumber": 7,
+      "observed": true,
+      "retainedCustomers": 0,
+      "retentionRatePct": 0.0
+    },
+    {
+      "acquiredCustomers": 1,
+      "cohortMonth": "2016-09",
+      "monthNumber": 8,
+      "observed": true,
+      "retainedCustomers": 0,
+      "retentionRatePct": 0.0
+    },
+    {
+      "acquiredCustomers": 1,
+      "cohortMonth": "2016-09",
+      "monthNumber": 9,
+      "observed": true,
+      "retainedCustomers": 0,
+      "retentionRatePct": 0.0
+    },
+    {
+      "acquiredCustomers": 1,
+      "cohortMonth": "2016-09",
+      "monthNumber": 10,
+      "observed": true,
+      "retainedCustomers": 0,
+      "retentionRatePct": 0.0
+    },
+    {
+      "acquiredCustomers": 1,
+      "cohortMonth": "2016-09",
+      "monthNumber": 11,
+      "observed": true,
+      "retainedCustomers": 0,
+      "retentionRatePct": 0.0
+    },
+    {
+      "acquiredCustomers": 1,
+      "cohortMonth": "2016-09",
+      "monthNumber": 12,
+      "observed": true,
+      "retainedCustomers": 0,
+      "retentionRatePct": 0.0
+    },
+    {
+      "acquiredCustomers": 1,
+      "cohortMonth": "2016-09",
+      "monthNumber": 13,
+      "observed": true,
+      "retainedCustomers": 0,
+      "retentionRatePct": 0.0
+    },
+    {
+      "acquiredCustomers": 1,
+      "cohortMonth": "2016-09",
+      "monthNumber": 14,
+      "observed": true,
+      "retainedCustomers": 0,
+      "retentionRatePct": 0.0
+    },
+    {
+      "acquiredCustomers": 1,
+      "cohortMonth": "2016-09",
+      "monthNumber": 15,
+      "observed": true,
+      "retainedCustomers": 0,
+      "retentionRatePct": 0.0
+    },
+    {
+      "acquiredCustomers": 1,
+      "cohortMonth": "2016-09",
+      "monthNumber": 16,
+      "observed": true,
+      "retainedCustomers": 0,
+      "retentionRatePct": 0.0
+    },
+    {
+      "acquiredCustomers": 1,
+      "cohortMonth": "2016-09",
+      "monthNumber": 17,
+      "observed": true,
+      "retainedCustomers": 0,
+      "retentionRatePct": 0.0
+    },
+    {
+      "acquiredCustomers": 1,
+      "cohortMonth": "2016-09",
+      "monthNumber": 18,
+      "observed": true,
+      "retainedCustomers": 0,
+      "retentionRatePct": 0.0
+    },
+    {
+      "acquiredCustomers": 1,
+      "cohortMonth": "2016-09",
+      "monthNumber": 19,
+      "observed": true,
+      "retainedCustomers": 0,
+      "retentionRatePct": 0.0
+    },
+    {
+      "acquiredCustomers": 1,
+      "cohortMonth": "2016-09",
+      "monthNumber": 20,
+      "observed": true,
+      "retainedCustomers": 0,
+      "retentionRatePct": 0.0
+    },
+    {
+      "acquiredCustomers": 1,
+      "cohortMonth": "2016-09",
+      "monthNumber": 21,
+      "observed": true,
+      "retainedCustomers": 0,
+      "retentionRatePct": 0.0
+    },
+    {
+      "acquiredCustomers": 1,
+      "cohortMonth": "2016-09",
+      "monthNumber": 22,
+      "observed": true,
+      "retainedCustomers": 0,
+      "retentionRatePct": 0.0
+    },
+    {
+      "acquiredCustomers": 1,
+      "cohortMonth": "2016-09",
+      "monthNumber": 23,
+      "observed": true,
+      "retainedCustomers": 0,
+      "retentionRatePct": 0.0
+    },
+    {
+      "acquiredCustomers": 262,
+      "cohortMonth": "2016-10",
+      "monthNumber": 0,
+      "observed": true,
+      "retainedCustomers": 262,
+      "retentionRatePct": 100.0
+    },
+    {
+      "acquiredCustomers": 262,
+      "cohortMonth": "2016-10",
+      "monthNumber": 1,
+      "observed": true,
+      "retainedCustomers": 0,
+      "retentionRatePct": 0.0
+    },
+    {
+      "acquiredCustomers": 262,
+      "cohortMonth": "2016-10",
+      "monthNumber": 2,
+      "observed": true,
+      "retainedCustomers": 0,
+      "retentionRatePct": 0.0
+    },
+    {
+      "acquiredCustomers": 262,
+      "cohortMonth": "2016-10",
+      "monthNumber": 3,
+      "observed": true,
+      "retainedCustomers": 0,
+      "retentionRatePct": 0.0
+    },
+    {
+      "acquiredCustomers": 262,
+      "cohortMonth": "2016-10",
+      "monthNumber": 4,
+      "observed": true,
+      "retainedCustomers": 0,
+      "retentionRatePct": 0.0
+    },
+    {
+      "acquiredCustomers": 262,
+      "cohortMonth": "2016-10",
+      "monthNumber": 5,
+      "observed": true,
+      "retainedCustomers": 0,
+      "retentionRatePct": 0.0
+    },
+    {
+      "acquiredCustomers": 262,
+      "cohortMonth": "2016-10",
+      "monthNumber": 6,
+      "observed": true,
+      "retainedCustomers": 1,
+      "retentionRatePct": 0.38
+    },
+    {
+      "acquiredCustomers": 262,
+      "cohortMonth": "2016-10",
+      "monthNumber": 7,
+      "observed": true,
+      "retainedCustomers": 0,
+      "retentionRatePct": 0.0
+    },
+    {
+      "acquiredCustomers": 262,
+      "cohortMonth": "2016-10",
+      "monthNumber": 8,
+      "observed": true,
+      "retainedCustomers": 0,
+      "retentionRatePct": 0.0
+    },
+    {
+      "acquiredCustomers": 262,
+      "cohortMonth": "2016-10",
+      "monthNumber": 9,
+      "observed": true,
+      "retainedCustomers": 1,
+      "retentionRatePct": 0.38
+    },
+    {
+      "acquiredCustomers": 262,
+      "cohortMonth": "2016-10",
+      "monthNumber": 10,
+      "observed": true,
+      "retainedCustomers": 0,
+      "retentionRatePct": 0.0
+    },
+    {
+      "acquiredCustomers": 262,
+      "cohortMonth": "2016-10",
+      "monthNumber": 11,
+      "observed": true,
+      "retainedCustomers": 1,
+      "retentionRatePct": 0.38
+    },
+    {
+      "acquiredCustomers": 262,
+      "cohortMonth": "2016-10",
+      "monthNumber": 12,
+      "observed": true,
+      "retainedCustomers": 0,
+      "retentionRatePct": 0.0
+    },
+    {
+      "acquiredCustomers": 262,
+      "cohortMonth": "2016-10",
+      "monthNumber": 13,
+      "observed": true,
+      "retainedCustomers": 1,
+      "retentionRatePct": 0.38
+    },
+    {
+      "acquiredCustomers": 262,
+      "cohortMonth": "2016-10",
+      "monthNumber": 14,
+      "observed": true,
+      "retainedCustomers": 0,
+      "retentionRatePct": 0.0
+    },
+    {
+      "acquiredCustomers": 262,
+      "cohortMonth": "2016-10",
+      "monthNumber": 15,
+      "observed": true,
+      "retainedCustomers": 1,
+      "retentionRatePct": 0.38
+    },
+    {
+      "acquiredCustomers": 262,
+      "cohortMonth": "2016-10",
+      "monthNumber": 16,
+      "observed": true,
+      "retainedCustomers": 0,
+      "retentionRatePct": 0.0
+    },
+    {
+      "acquiredCustomers": 262,
+      "cohortMonth": "2016-10",
+      "monthNumber": 17,
+      "observed": true,
+      "retainedCustomers": 1,
+      "retentionRatePct": 0.38
+    },
+    {
+      "acquiredCustomers": 262,
+      "cohortMonth": "2016-10",
+      "monthNumber": 18,
+      "observed": true,
+      "retainedCustomers": 0,
+      "retentionRatePct": 0.0
+    },
+    {
+      "acquiredCustomers": 262,
+      "cohortMonth": "2016-10",
+      "monthNumber": 19,
+      "observed": true,
+      "retainedCustomers": 2,
+      "retentionRatePct": 0.76
+    },
+    {
+      "acquiredCustomers": 262,
+      "cohortMonth": "2016-10",
+      "monthNumber": 20,
+      "observed": true,
+      "retainedCustomers": 2,
+      "retentionRatePct": 0.76
+    },
+    {
+      "acquiredCustomers": 262,
+      "cohortMonth": "2016-10",
+      "monthNumber": 21,
+      "observed": true,
+      "retainedCustomers": 0,
+      "retentionRatePct": 0.0
+    },
+    {
+      "acquiredCustomers": 262,
+      "cohortMonth": "2016-10",
+      "monthNumber": 22,
+      "observed": true,
+      "retainedCustomers": 0,
+      "retentionRatePct": 0.0
+    },
+    {
+      "acquiredCustomers": 262,
+      "cohortMonth": "2016-10",
+      "monthNumber": 23,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 1,
+      "cohortMonth": "2016-12",
+      "monthNumber": 0,
+      "observed": true,
+      "retainedCustomers": 1,
+      "retentionRatePct": 100.0
+    },
+    {
+      "acquiredCustomers": 1,
+      "cohortMonth": "2016-12",
+      "monthNumber": 1,
+      "observed": true,
+      "retainedCustomers": 1,
+      "retentionRatePct": 100.0
+    },
+    {
+      "acquiredCustomers": 1,
+      "cohortMonth": "2016-12",
+      "monthNumber": 2,
+      "observed": true,
+      "retainedCustomers": 0,
+      "retentionRatePct": 0.0
+    },
+    {
+      "acquiredCustomers": 1,
+      "cohortMonth": "2016-12",
+      "monthNumber": 3,
+      "observed": true,
+      "retainedCustomers": 0,
+      "retentionRatePct": 0.0
+    },
+    {
+      "acquiredCustomers": 1,
+      "cohortMonth": "2016-12",
+      "monthNumber": 4,
+      "observed": true,
+      "retainedCustomers": 0,
+      "retentionRatePct": 0.0
+    },
+    {
+      "acquiredCustomers": 1,
+      "cohortMonth": "2016-12",
+      "monthNumber": 5,
+      "observed": true,
+      "retainedCustomers": 0,
+      "retentionRatePct": 0.0
+    },
+    {
+      "acquiredCustomers": 1,
+      "cohortMonth": "2016-12",
+      "monthNumber": 6,
+      "observed": true,
+      "retainedCustomers": 0,
+      "retentionRatePct": 0.0
+    },
+    {
+      "acquiredCustomers": 1,
+      "cohortMonth": "2016-12",
+      "monthNumber": 7,
+      "observed": true,
+      "retainedCustomers": 0,
+      "retentionRatePct": 0.0
+    },
+    {
+      "acquiredCustomers": 1,
+      "cohortMonth": "2016-12",
+      "monthNumber": 8,
+      "observed": true,
+      "retainedCustomers": 0,
+      "retentionRatePct": 0.0
+    },
+    {
+      "acquiredCustomers": 1,
+      "cohortMonth": "2016-12",
+      "monthNumber": 9,
+      "observed": true,
+      "retainedCustomers": 0,
+      "retentionRatePct": 0.0
+    },
+    {
+      "acquiredCustomers": 1,
+      "cohortMonth": "2016-12",
+      "monthNumber": 10,
+      "observed": true,
+      "retainedCustomers": 0,
+      "retentionRatePct": 0.0
+    },
+    {
+      "acquiredCustomers": 1,
+      "cohortMonth": "2016-12",
+      "monthNumber": 11,
+      "observed": true,
+      "retainedCustomers": 0,
+      "retentionRatePct": 0.0
+    },
+    {
+      "acquiredCustomers": 1,
+      "cohortMonth": "2016-12",
+      "monthNumber": 12,
+      "observed": true,
+      "retainedCustomers": 0,
+      "retentionRatePct": 0.0
+    },
+    {
+      "acquiredCustomers": 1,
+      "cohortMonth": "2016-12",
+      "monthNumber": 13,
+      "observed": true,
+      "retainedCustomers": 0,
+      "retentionRatePct": 0.0
+    },
+    {
+      "acquiredCustomers": 1,
+      "cohortMonth": "2016-12",
+      "monthNumber": 14,
+      "observed": true,
+      "retainedCustomers": 0,
+      "retentionRatePct": 0.0
+    },
+    {
+      "acquiredCustomers": 1,
+      "cohortMonth": "2016-12",
+      "monthNumber": 15,
+      "observed": true,
+      "retainedCustomers": 0,
+      "retentionRatePct": 0.0
+    },
+    {
+      "acquiredCustomers": 1,
+      "cohortMonth": "2016-12",
+      "monthNumber": 16,
+      "observed": true,
+      "retainedCustomers": 0,
+      "retentionRatePct": 0.0
+    },
+    {
+      "acquiredCustomers": 1,
+      "cohortMonth": "2016-12",
+      "monthNumber": 17,
+      "observed": true,
+      "retainedCustomers": 0,
+      "retentionRatePct": 0.0
+    },
+    {
+      "acquiredCustomers": 1,
+      "cohortMonth": "2016-12",
+      "monthNumber": 18,
+      "observed": true,
+      "retainedCustomers": 0,
+      "retentionRatePct": 0.0
+    },
+    {
+      "acquiredCustomers": 1,
+      "cohortMonth": "2016-12",
+      "monthNumber": 19,
+      "observed": true,
+      "retainedCustomers": 0,
+      "retentionRatePct": 0.0
+    },
+    {
+      "acquiredCustomers": 1,
+      "cohortMonth": "2016-12",
+      "monthNumber": 20,
+      "observed": true,
+      "retainedCustomers": 0,
+      "retentionRatePct": 0.0
+    },
+    {
+      "acquiredCustomers": 1,
+      "cohortMonth": "2016-12",
+      "monthNumber": 21,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 1,
+      "cohortMonth": "2016-12",
+      "monthNumber": 22,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 1,
+      "cohortMonth": "2016-12",
+      "monthNumber": 23,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 717,
+      "cohortMonth": "2017-01",
+      "monthNumber": 0,
+      "observed": true,
+      "retainedCustomers": 717,
+      "retentionRatePct": 100.0
+    },
+    {
+      "acquiredCustomers": 717,
+      "cohortMonth": "2017-01",
+      "monthNumber": 1,
+      "observed": true,
+      "retainedCustomers": 2,
+      "retentionRatePct": 0.28
+    },
+    {
+      "acquiredCustomers": 717,
+      "cohortMonth": "2017-01",
+      "monthNumber": 2,
+      "observed": true,
+      "retainedCustomers": 2,
+      "retentionRatePct": 0.28
+    },
+    {
+      "acquiredCustomers": 717,
+      "cohortMonth": "2017-01",
+      "monthNumber": 3,
+      "observed": true,
+      "retainedCustomers": 1,
+      "retentionRatePct": 0.14
+    },
+    {
+      "acquiredCustomers": 717,
+      "cohortMonth": "2017-01",
+      "monthNumber": 4,
+      "observed": true,
+      "retainedCustomers": 3,
+      "retentionRatePct": 0.42
+    },
+    {
+      "acquiredCustomers": 717,
+      "cohortMonth": "2017-01",
+      "monthNumber": 5,
+      "observed": true,
+      "retainedCustomers": 1,
+      "retentionRatePct": 0.14
+    },
+    {
+      "acquiredCustomers": 717,
+      "cohortMonth": "2017-01",
+      "monthNumber": 6,
+      "observed": true,
+      "retainedCustomers": 3,
+      "retentionRatePct": 0.42
+    },
+    {
+      "acquiredCustomers": 717,
+      "cohortMonth": "2017-01",
+      "monthNumber": 7,
+      "observed": true,
+      "retainedCustomers": 1,
+      "retentionRatePct": 0.14
+    },
+    {
+      "acquiredCustomers": 717,
+      "cohortMonth": "2017-01",
+      "monthNumber": 8,
+      "observed": true,
+      "retainedCustomers": 1,
+      "retentionRatePct": 0.14
+    },
+    {
+      "acquiredCustomers": 717,
+      "cohortMonth": "2017-01",
+      "monthNumber": 9,
+      "observed": true,
+      "retainedCustomers": 0,
+      "retentionRatePct": 0.0
+    },
+    {
+      "acquiredCustomers": 717,
+      "cohortMonth": "2017-01",
+      "monthNumber": 10,
+      "observed": true,
+      "retainedCustomers": 3,
+      "retentionRatePct": 0.42
+    },
+    {
+      "acquiredCustomers": 717,
+      "cohortMonth": "2017-01",
+      "monthNumber": 11,
+      "observed": true,
+      "retainedCustomers": 1,
+      "retentionRatePct": 0.14
+    },
+    {
+      "acquiredCustomers": 717,
+      "cohortMonth": "2017-01",
+      "monthNumber": 12,
+      "observed": true,
+      "retainedCustomers": 5,
+      "retentionRatePct": 0.7
+    },
+    {
+      "acquiredCustomers": 717,
+      "cohortMonth": "2017-01",
+      "monthNumber": 13,
+      "observed": true,
+      "retainedCustomers": 3,
+      "retentionRatePct": 0.42
+    },
+    {
+      "acquiredCustomers": 717,
+      "cohortMonth": "2017-01",
+      "monthNumber": 14,
+      "observed": true,
+      "retainedCustomers": 1,
+      "retentionRatePct": 0.14
+    },
+    {
+      "acquiredCustomers": 717,
+      "cohortMonth": "2017-01",
+      "monthNumber": 15,
+      "observed": true,
+      "retainedCustomers": 1,
+      "retentionRatePct": 0.14
+    },
+    {
+      "acquiredCustomers": 717,
+      "cohortMonth": "2017-01",
+      "monthNumber": 16,
+      "observed": true,
+      "retainedCustomers": 2,
+      "retentionRatePct": 0.28
+    },
+    {
+      "acquiredCustomers": 717,
+      "cohortMonth": "2017-01",
+      "monthNumber": 17,
+      "observed": true,
+      "retainedCustomers": 3,
+      "retentionRatePct": 0.42
+    },
+    {
+      "acquiredCustomers": 717,
+      "cohortMonth": "2017-01",
+      "monthNumber": 18,
+      "observed": true,
+      "retainedCustomers": 0,
+      "retentionRatePct": 0.0
+    },
+    {
+      "acquiredCustomers": 717,
+      "cohortMonth": "2017-01",
+      "monthNumber": 19,
+      "observed": true,
+      "retainedCustomers": 1,
+      "retentionRatePct": 0.14
+    },
+    {
+      "acquiredCustomers": 717,
+      "cohortMonth": "2017-01",
+      "monthNumber": 20,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 717,
+      "cohortMonth": "2017-01",
+      "monthNumber": 21,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 717,
+      "cohortMonth": "2017-01",
+      "monthNumber": 22,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 717,
+      "cohortMonth": "2017-01",
+      "monthNumber": 23,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 1628,
+      "cohortMonth": "2017-02",
+      "monthNumber": 0,
+      "observed": true,
+      "retainedCustomers": 1628,
+      "retentionRatePct": 100.0
+    },
+    {
+      "acquiredCustomers": 1628,
+      "cohortMonth": "2017-02",
+      "monthNumber": 1,
+      "observed": true,
+      "retainedCustomers": 3,
+      "retentionRatePct": 0.18
+    },
+    {
+      "acquiredCustomers": 1628,
+      "cohortMonth": "2017-02",
+      "monthNumber": 2,
+      "observed": true,
+      "retainedCustomers": 5,
+      "retentionRatePct": 0.31
+    },
+    {
+      "acquiredCustomers": 1628,
+      "cohortMonth": "2017-02",
+      "monthNumber": 3,
+      "observed": true,
+      "retainedCustomers": 2,
+      "retentionRatePct": 0.12
+    },
+    {
+      "acquiredCustomers": 1628,
+      "cohortMonth": "2017-02",
+      "monthNumber": 4,
+      "observed": true,
+      "retainedCustomers": 7,
+      "retentionRatePct": 0.43
+    },
+    {
+      "acquiredCustomers": 1628,
+      "cohortMonth": "2017-02",
+      "monthNumber": 5,
+      "observed": true,
+      "retainedCustomers": 2,
+      "retentionRatePct": 0.12
+    },
+    {
+      "acquiredCustomers": 1628,
+      "cohortMonth": "2017-02",
+      "monthNumber": 6,
+      "observed": true,
+      "retainedCustomers": 4,
+      "retentionRatePct": 0.25
+    },
+    {
+      "acquiredCustomers": 1628,
+      "cohortMonth": "2017-02",
+      "monthNumber": 7,
+      "observed": true,
+      "retainedCustomers": 3,
+      "retentionRatePct": 0.18
+    },
+    {
+      "acquiredCustomers": 1628,
+      "cohortMonth": "2017-02",
+      "monthNumber": 8,
+      "observed": true,
+      "retainedCustomers": 2,
+      "retentionRatePct": 0.12
+    },
+    {
+      "acquiredCustomers": 1628,
+      "cohortMonth": "2017-02",
+      "monthNumber": 9,
+      "observed": true,
+      "retainedCustomers": 3,
+      "retentionRatePct": 0.18
+    },
+    {
+      "acquiredCustomers": 1628,
+      "cohortMonth": "2017-02",
+      "monthNumber": 10,
+      "observed": true,
+      "retainedCustomers": 2,
+      "retentionRatePct": 0.12
+    },
+    {
+      "acquiredCustomers": 1628,
+      "cohortMonth": "2017-02",
+      "monthNumber": 11,
+      "observed": true,
+      "retainedCustomers": 5,
+      "retentionRatePct": 0.31
+    },
+    {
+      "acquiredCustomers": 1628,
+      "cohortMonth": "2017-02",
+      "monthNumber": 12,
+      "observed": true,
+      "retainedCustomers": 2,
+      "retentionRatePct": 0.12
+    },
+    {
+      "acquiredCustomers": 1628,
+      "cohortMonth": "2017-02",
+      "monthNumber": 13,
+      "observed": true,
+      "retainedCustomers": 3,
+      "retentionRatePct": 0.18
+    },
+    {
+      "acquiredCustomers": 1628,
+      "cohortMonth": "2017-02",
+      "monthNumber": 14,
+      "observed": true,
+      "retainedCustomers": 2,
+      "retentionRatePct": 0.12
+    },
+    {
+      "acquiredCustomers": 1628,
+      "cohortMonth": "2017-02",
+      "monthNumber": 15,
+      "observed": true,
+      "retainedCustomers": 1,
+      "retentionRatePct": 0.06
+    },
+    {
+      "acquiredCustomers": 1628,
+      "cohortMonth": "2017-02",
+      "monthNumber": 16,
+      "observed": true,
+      "retainedCustomers": 1,
+      "retentionRatePct": 0.06
+    },
+    {
+      "acquiredCustomers": 1628,
+      "cohortMonth": "2017-02",
+      "monthNumber": 17,
+      "observed": true,
+      "retainedCustomers": 3,
+      "retentionRatePct": 0.18
+    },
+    {
+      "acquiredCustomers": 1628,
+      "cohortMonth": "2017-02",
+      "monthNumber": 18,
+      "observed": true,
+      "retainedCustomers": 0,
+      "retentionRatePct": 0.0
+    },
+    {
+      "acquiredCustomers": 1628,
+      "cohortMonth": "2017-02",
+      "monthNumber": 19,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 1628,
+      "cohortMonth": "2017-02",
+      "monthNumber": 20,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 1628,
+      "cohortMonth": "2017-02",
+      "monthNumber": 21,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 1628,
+      "cohortMonth": "2017-02",
+      "monthNumber": 22,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 1628,
+      "cohortMonth": "2017-02",
+      "monthNumber": 23,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 2503,
+      "cohortMonth": "2017-03",
+      "monthNumber": 0,
+      "observed": true,
+      "retainedCustomers": 2503,
+      "retentionRatePct": 100.0
+    },
+    {
+      "acquiredCustomers": 2503,
+      "cohortMonth": "2017-03",
+      "monthNumber": 1,
+      "observed": true,
+      "retainedCustomers": 11,
+      "retentionRatePct": 0.44
+    },
+    {
+      "acquiredCustomers": 2503,
+      "cohortMonth": "2017-03",
+      "monthNumber": 2,
+      "observed": true,
+      "retainedCustomers": 9,
+      "retentionRatePct": 0.36
+    },
+    {
+      "acquiredCustomers": 2503,
+      "cohortMonth": "2017-03",
+      "monthNumber": 3,
+      "observed": true,
+      "retainedCustomers": 10,
+      "retentionRatePct": 0.4
+    },
+    {
+      "acquiredCustomers": 2503,
+      "cohortMonth": "2017-03",
+      "monthNumber": 4,
+      "observed": true,
+      "retainedCustomers": 9,
+      "retentionRatePct": 0.36
+    },
+    {
+      "acquiredCustomers": 2503,
+      "cohortMonth": "2017-03",
+      "monthNumber": 5,
+      "observed": true,
+      "retainedCustomers": 4,
+      "retentionRatePct": 0.16
+    },
+    {
+      "acquiredCustomers": 2503,
+      "cohortMonth": "2017-03",
+      "monthNumber": 6,
+      "observed": true,
+      "retainedCustomers": 4,
+      "retentionRatePct": 0.16
+    },
+    {
+      "acquiredCustomers": 2503,
+      "cohortMonth": "2017-03",
+      "monthNumber": 7,
+      "observed": true,
+      "retainedCustomers": 8,
+      "retentionRatePct": 0.32
+    },
+    {
+      "acquiredCustomers": 2503,
+      "cohortMonth": "2017-03",
+      "monthNumber": 8,
+      "observed": true,
+      "retainedCustomers": 8,
+      "retentionRatePct": 0.32
+    },
+    {
+      "acquiredCustomers": 2503,
+      "cohortMonth": "2017-03",
+      "monthNumber": 9,
+      "observed": true,
+      "retainedCustomers": 2,
+      "retentionRatePct": 0.08
+    },
+    {
+      "acquiredCustomers": 2503,
+      "cohortMonth": "2017-03",
+      "monthNumber": 10,
+      "observed": true,
+      "retainedCustomers": 9,
+      "retentionRatePct": 0.36
+    },
+    {
+      "acquiredCustomers": 2503,
+      "cohortMonth": "2017-03",
+      "monthNumber": 11,
+      "observed": true,
+      "retainedCustomers": 3,
+      "retentionRatePct": 0.12
+    },
+    {
+      "acquiredCustomers": 2503,
+      "cohortMonth": "2017-03",
+      "monthNumber": 12,
+      "observed": true,
+      "retainedCustomers": 5,
+      "retentionRatePct": 0.2
+    },
+    {
+      "acquiredCustomers": 2503,
+      "cohortMonth": "2017-03",
+      "monthNumber": 13,
+      "observed": true,
+      "retainedCustomers": 3,
+      "retentionRatePct": 0.12
+    },
+    {
+      "acquiredCustomers": 2503,
+      "cohortMonth": "2017-03",
+      "monthNumber": 14,
+      "observed": true,
+      "retainedCustomers": 4,
+      "retentionRatePct": 0.16
+    },
+    {
+      "acquiredCustomers": 2503,
+      "cohortMonth": "2017-03",
+      "monthNumber": 15,
+      "observed": true,
+      "retainedCustomers": 6,
+      "retentionRatePct": 0.24
+    },
+    {
+      "acquiredCustomers": 2503,
+      "cohortMonth": "2017-03",
+      "monthNumber": 16,
+      "observed": true,
+      "retainedCustomers": 2,
+      "retentionRatePct": 0.08
+    },
+    {
+      "acquiredCustomers": 2503,
+      "cohortMonth": "2017-03",
+      "monthNumber": 17,
+      "observed": true,
+      "retainedCustomers": 3,
+      "retentionRatePct": 0.12
+    },
+    {
+      "acquiredCustomers": 2503,
+      "cohortMonth": "2017-03",
+      "monthNumber": 18,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 2503,
+      "cohortMonth": "2017-03",
+      "monthNumber": 19,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 2503,
+      "cohortMonth": "2017-03",
+      "monthNumber": 20,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 2503,
+      "cohortMonth": "2017-03",
+      "monthNumber": 21,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 2503,
+      "cohortMonth": "2017-03",
+      "monthNumber": 22,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 2503,
+      "cohortMonth": "2017-03",
+      "monthNumber": 23,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 2256,
+      "cohortMonth": "2017-04",
+      "monthNumber": 0,
+      "observed": true,
+      "retainedCustomers": 2256,
+      "retentionRatePct": 100.0
+    },
+    {
+      "acquiredCustomers": 2256,
+      "cohortMonth": "2017-04",
+      "monthNumber": 1,
+      "observed": true,
+      "retainedCustomers": 14,
+      "retentionRatePct": 0.62
+    },
+    {
+      "acquiredCustomers": 2256,
+      "cohortMonth": "2017-04",
+      "monthNumber": 2,
+      "observed": true,
+      "retainedCustomers": 5,
+      "retentionRatePct": 0.22
+    },
+    {
+      "acquiredCustomers": 2256,
+      "cohortMonth": "2017-04",
+      "monthNumber": 3,
+      "observed": true,
+      "retainedCustomers": 4,
+      "retentionRatePct": 0.18
+    },
+    {
+      "acquiredCustomers": 2256,
+      "cohortMonth": "2017-04",
+      "monthNumber": 4,
+      "observed": true,
+      "retainedCustomers": 6,
+      "retentionRatePct": 0.27
+    },
+    {
+      "acquiredCustomers": 2256,
+      "cohortMonth": "2017-04",
+      "monthNumber": 5,
+      "observed": true,
+      "retainedCustomers": 6,
+      "retentionRatePct": 0.27
+    },
+    {
+      "acquiredCustomers": 2256,
+      "cohortMonth": "2017-04",
+      "monthNumber": 6,
+      "observed": true,
+      "retainedCustomers": 8,
+      "retentionRatePct": 0.35
+    },
+    {
+      "acquiredCustomers": 2256,
+      "cohortMonth": "2017-04",
+      "monthNumber": 7,
+      "observed": true,
+      "retainedCustomers": 7,
+      "retentionRatePct": 0.31
+    },
+    {
+      "acquiredCustomers": 2256,
+      "cohortMonth": "2017-04",
+      "monthNumber": 8,
+      "observed": true,
+      "retainedCustomers": 7,
+      "retentionRatePct": 0.31
+    },
+    {
+      "acquiredCustomers": 2256,
+      "cohortMonth": "2017-04",
+      "monthNumber": 9,
+      "observed": true,
+      "retainedCustomers": 4,
+      "retentionRatePct": 0.18
+    },
+    {
+      "acquiredCustomers": 2256,
+      "cohortMonth": "2017-04",
+      "monthNumber": 10,
+      "observed": true,
+      "retainedCustomers": 6,
+      "retentionRatePct": 0.27
+    },
+    {
+      "acquiredCustomers": 2256,
+      "cohortMonth": "2017-04",
+      "monthNumber": 11,
+      "observed": true,
+      "retainedCustomers": 2,
+      "retentionRatePct": 0.09
+    },
+    {
+      "acquiredCustomers": 2256,
+      "cohortMonth": "2017-04",
+      "monthNumber": 12,
+      "observed": true,
+      "retainedCustomers": 1,
+      "retentionRatePct": 0.04
+    },
+    {
+      "acquiredCustomers": 2256,
+      "cohortMonth": "2017-04",
+      "monthNumber": 13,
+      "observed": true,
+      "retainedCustomers": 1,
+      "retentionRatePct": 0.04
+    },
+    {
+      "acquiredCustomers": 2256,
+      "cohortMonth": "2017-04",
+      "monthNumber": 14,
+      "observed": true,
+      "retainedCustomers": 2,
+      "retentionRatePct": 0.09
+    },
+    {
+      "acquiredCustomers": 2256,
+      "cohortMonth": "2017-04",
+      "monthNumber": 15,
+      "observed": true,
+      "retainedCustomers": 2,
+      "retentionRatePct": 0.09
+    },
+    {
+      "acquiredCustomers": 2256,
+      "cohortMonth": "2017-04",
+      "monthNumber": 16,
+      "observed": true,
+      "retainedCustomers": 3,
+      "retentionRatePct": 0.13
+    },
+    {
+      "acquiredCustomers": 2256,
+      "cohortMonth": "2017-04",
+      "monthNumber": 17,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 2256,
+      "cohortMonth": "2017-04",
+      "monthNumber": 18,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 2256,
+      "cohortMonth": "2017-04",
+      "monthNumber": 19,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 2256,
+      "cohortMonth": "2017-04",
+      "monthNumber": 20,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 2256,
+      "cohortMonth": "2017-04",
+      "monthNumber": 21,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 2256,
+      "cohortMonth": "2017-04",
+      "monthNumber": 22,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 2256,
+      "cohortMonth": "2017-04",
+      "monthNumber": 23,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 3451,
+      "cohortMonth": "2017-05",
+      "monthNumber": 0,
+      "observed": true,
+      "retainedCustomers": 3451,
+      "retentionRatePct": 100.0
+    },
+    {
+      "acquiredCustomers": 3451,
+      "cohortMonth": "2017-05",
+      "monthNumber": 1,
+      "observed": true,
+      "retainedCustomers": 16,
+      "retentionRatePct": 0.46
+    },
+    {
+      "acquiredCustomers": 3451,
+      "cohortMonth": "2017-05",
+      "monthNumber": 2,
+      "observed": true,
+      "retainedCustomers": 16,
+      "retentionRatePct": 0.46
+    },
+    {
+      "acquiredCustomers": 3451,
+      "cohortMonth": "2017-05",
+      "monthNumber": 3,
+      "observed": true,
+      "retainedCustomers": 10,
+      "retentionRatePct": 0.29
+    },
+    {
+      "acquiredCustomers": 3451,
+      "cohortMonth": "2017-05",
+      "monthNumber": 4,
+      "observed": true,
+      "retainedCustomers": 10,
+      "retentionRatePct": 0.29
+    },
+    {
+      "acquiredCustomers": 3451,
+      "cohortMonth": "2017-05",
+      "monthNumber": 5,
+      "observed": true,
+      "retainedCustomers": 11,
+      "retentionRatePct": 0.32
+    },
+    {
+      "acquiredCustomers": 3451,
+      "cohortMonth": "2017-05",
+      "monthNumber": 6,
+      "observed": true,
+      "retainedCustomers": 14,
+      "retentionRatePct": 0.41
+    },
+    {
+      "acquiredCustomers": 3451,
+      "cohortMonth": "2017-05",
+      "monthNumber": 7,
+      "observed": true,
+      "retainedCustomers": 5,
+      "retentionRatePct": 0.14
+    },
+    {
+      "acquiredCustomers": 3451,
+      "cohortMonth": "2017-05",
+      "monthNumber": 8,
+      "observed": true,
+      "retainedCustomers": 9,
+      "retentionRatePct": 0.26
+    },
+    {
+      "acquiredCustomers": 3451,
+      "cohortMonth": "2017-05",
+      "monthNumber": 9,
+      "observed": true,
+      "retainedCustomers": 9,
+      "retentionRatePct": 0.26
+    },
+    {
+      "acquiredCustomers": 3451,
+      "cohortMonth": "2017-05",
+      "monthNumber": 10,
+      "observed": true,
+      "retainedCustomers": 9,
+      "retentionRatePct": 0.26
+    },
+    {
+      "acquiredCustomers": 3451,
+      "cohortMonth": "2017-05",
+      "monthNumber": 11,
+      "observed": true,
+      "retainedCustomers": 12,
+      "retentionRatePct": 0.35
+    },
+    {
+      "acquiredCustomers": 3451,
+      "cohortMonth": "2017-05",
+      "monthNumber": 12,
+      "observed": true,
+      "retainedCustomers": 8,
+      "retentionRatePct": 0.23
+    },
+    {
+      "acquiredCustomers": 3451,
+      "cohortMonth": "2017-05",
+      "monthNumber": 13,
+      "observed": true,
+      "retainedCustomers": 1,
+      "retentionRatePct": 0.03
+    },
+    {
+      "acquiredCustomers": 3451,
+      "cohortMonth": "2017-05",
+      "monthNumber": 14,
+      "observed": true,
+      "retainedCustomers": 6,
+      "retentionRatePct": 0.17
+    },
+    {
+      "acquiredCustomers": 3451,
+      "cohortMonth": "2017-05",
+      "monthNumber": 15,
+      "observed": true,
+      "retainedCustomers": 7,
+      "retentionRatePct": 0.2
+    },
+    {
+      "acquiredCustomers": 3451,
+      "cohortMonth": "2017-05",
+      "monthNumber": 16,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 3451,
+      "cohortMonth": "2017-05",
+      "monthNumber": 17,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 3451,
+      "cohortMonth": "2017-05",
+      "monthNumber": 18,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 3451,
+      "cohortMonth": "2017-05",
+      "monthNumber": 19,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 3451,
+      "cohortMonth": "2017-05",
+      "monthNumber": 20,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 3451,
+      "cohortMonth": "2017-05",
+      "monthNumber": 21,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 3451,
+      "cohortMonth": "2017-05",
+      "monthNumber": 22,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 3451,
+      "cohortMonth": "2017-05",
+      "monthNumber": 23,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 3037,
+      "cohortMonth": "2017-06",
+      "monthNumber": 0,
+      "observed": true,
+      "retainedCustomers": 3037,
+      "retentionRatePct": 100.0
+    },
+    {
+      "acquiredCustomers": 3037,
+      "cohortMonth": "2017-06",
+      "monthNumber": 1,
+      "observed": true,
+      "retainedCustomers": 15,
+      "retentionRatePct": 0.49
+    },
+    {
+      "acquiredCustomers": 3037,
+      "cohortMonth": "2017-06",
+      "monthNumber": 2,
+      "observed": true,
+      "retainedCustomers": 12,
+      "retentionRatePct": 0.4
+    },
+    {
+      "acquiredCustomers": 3037,
+      "cohortMonth": "2017-06",
+      "monthNumber": 3,
+      "observed": true,
+      "retainedCustomers": 13,
+      "retentionRatePct": 0.43
+    },
+    {
+      "acquiredCustomers": 3037,
+      "cohortMonth": "2017-06",
+      "monthNumber": 4,
+      "observed": true,
+      "retainedCustomers": 9,
+      "retentionRatePct": 0.3
+    },
+    {
+      "acquiredCustomers": 3037,
+      "cohortMonth": "2017-06",
+      "monthNumber": 5,
+      "observed": true,
+      "retainedCustomers": 12,
+      "retentionRatePct": 0.4
+    },
+    {
+      "acquiredCustomers": 3037,
+      "cohortMonth": "2017-06",
+      "monthNumber": 6,
+      "observed": true,
+      "retainedCustomers": 11,
+      "retentionRatePct": 0.36
+    },
+    {
+      "acquiredCustomers": 3037,
+      "cohortMonth": "2017-06",
+      "monthNumber": 7,
+      "observed": true,
+      "retainedCustomers": 7,
+      "retentionRatePct": 0.23
+    },
+    {
+      "acquiredCustomers": 3037,
+      "cohortMonth": "2017-06",
+      "monthNumber": 8,
+      "observed": true,
+      "retainedCustomers": 4,
+      "retentionRatePct": 0.13
+    },
+    {
+      "acquiredCustomers": 3037,
+      "cohortMonth": "2017-06",
+      "monthNumber": 9,
+      "observed": true,
+      "retainedCustomers": 6,
+      "retentionRatePct": 0.2
+    },
+    {
+      "acquiredCustomers": 3037,
+      "cohortMonth": "2017-06",
+      "monthNumber": 10,
+      "observed": true,
+      "retainedCustomers": 9,
+      "retentionRatePct": 0.3
+    },
+    {
+      "acquiredCustomers": 3037,
+      "cohortMonth": "2017-06",
+      "monthNumber": 11,
+      "observed": true,
+      "retainedCustomers": 11,
+      "retentionRatePct": 0.36
+    },
+    {
+      "acquiredCustomers": 3037,
+      "cohortMonth": "2017-06",
+      "monthNumber": 12,
+      "observed": true,
+      "retainedCustomers": 5,
+      "retentionRatePct": 0.16
+    },
+    {
+      "acquiredCustomers": 3037,
+      "cohortMonth": "2017-06",
+      "monthNumber": 13,
+      "observed": true,
+      "retainedCustomers": 5,
+      "retentionRatePct": 0.16
+    },
+    {
+      "acquiredCustomers": 3037,
+      "cohortMonth": "2017-06",
+      "monthNumber": 14,
+      "observed": true,
+      "retainedCustomers": 7,
+      "retentionRatePct": 0.23
+    },
+    {
+      "acquiredCustomers": 3037,
+      "cohortMonth": "2017-06",
+      "monthNumber": 15,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 3037,
+      "cohortMonth": "2017-06",
+      "monthNumber": 16,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 3037,
+      "cohortMonth": "2017-06",
+      "monthNumber": 17,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 3037,
+      "cohortMonth": "2017-06",
+      "monthNumber": 18,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 3037,
+      "cohortMonth": "2017-06",
+      "monthNumber": 19,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 3037,
+      "cohortMonth": "2017-06",
+      "monthNumber": 20,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 3037,
+      "cohortMonth": "2017-06",
+      "monthNumber": 21,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 3037,
+      "cohortMonth": "2017-06",
+      "monthNumber": 22,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 3037,
+      "cohortMonth": "2017-06",
+      "monthNumber": 23,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 3752,
+      "cohortMonth": "2017-07",
+      "monthNumber": 0,
+      "observed": true,
+      "retainedCustomers": 3752,
+      "retentionRatePct": 100.0
+    },
+    {
+      "acquiredCustomers": 3752,
+      "cohortMonth": "2017-07",
+      "monthNumber": 1,
+      "observed": true,
+      "retainedCustomers": 20,
+      "retentionRatePct": 0.53
+    },
+    {
+      "acquiredCustomers": 3752,
+      "cohortMonth": "2017-07",
+      "monthNumber": 2,
+      "observed": true,
+      "retainedCustomers": 13,
+      "retentionRatePct": 0.35
+    },
+    {
+      "acquiredCustomers": 3752,
+      "cohortMonth": "2017-07",
+      "monthNumber": 3,
+      "observed": true,
+      "retainedCustomers": 9,
+      "retentionRatePct": 0.24
+    },
+    {
+      "acquiredCustomers": 3752,
+      "cohortMonth": "2017-07",
+      "monthNumber": 4,
+      "observed": true,
+      "retainedCustomers": 11,
+      "retentionRatePct": 0.29
+    },
+    {
+      "acquiredCustomers": 3752,
+      "cohortMonth": "2017-07",
+      "monthNumber": 5,
+      "observed": true,
+      "retainedCustomers": 8,
+      "retentionRatePct": 0.21
+    },
+    {
+      "acquiredCustomers": 3752,
+      "cohortMonth": "2017-07",
+      "monthNumber": 6,
+      "observed": true,
+      "retainedCustomers": 12,
+      "retentionRatePct": 0.32
+    },
+    {
+      "acquiredCustomers": 3752,
+      "cohortMonth": "2017-07",
+      "monthNumber": 7,
+      "observed": true,
+      "retainedCustomers": 4,
+      "retentionRatePct": 0.11
+    },
+    {
+      "acquiredCustomers": 3752,
+      "cohortMonth": "2017-07",
+      "monthNumber": 8,
+      "observed": true,
+      "retainedCustomers": 7,
+      "retentionRatePct": 0.19
+    },
+    {
+      "acquiredCustomers": 3752,
+      "cohortMonth": "2017-07",
+      "monthNumber": 9,
+      "observed": true,
+      "retainedCustomers": 10,
+      "retentionRatePct": 0.27
+    },
+    {
+      "acquiredCustomers": 3752,
+      "cohortMonth": "2017-07",
+      "monthNumber": 10,
+      "observed": true,
+      "retainedCustomers": 8,
+      "retentionRatePct": 0.21
+    },
+    {
+      "acquiredCustomers": 3752,
+      "cohortMonth": "2017-07",
+      "monthNumber": 11,
+      "observed": true,
+      "retainedCustomers": 11,
+      "retentionRatePct": 0.29
+    },
+    {
+      "acquiredCustomers": 3752,
+      "cohortMonth": "2017-07",
+      "monthNumber": 12,
+      "observed": true,
+      "retainedCustomers": 5,
+      "retentionRatePct": 0.13
+    },
+    {
+      "acquiredCustomers": 3752,
+      "cohortMonth": "2017-07",
+      "monthNumber": 13,
+      "observed": true,
+      "retainedCustomers": 9,
+      "retentionRatePct": 0.24
+    },
+    {
+      "acquiredCustomers": 3752,
+      "cohortMonth": "2017-07",
+      "monthNumber": 14,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 3752,
+      "cohortMonth": "2017-07",
+      "monthNumber": 15,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 3752,
+      "cohortMonth": "2017-07",
+      "monthNumber": 16,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 3752,
+      "cohortMonth": "2017-07",
+      "monthNumber": 17,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 3752,
+      "cohortMonth": "2017-07",
+      "monthNumber": 18,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 3752,
+      "cohortMonth": "2017-07",
+      "monthNumber": 19,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 3752,
+      "cohortMonth": "2017-07",
+      "monthNumber": 20,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 3752,
+      "cohortMonth": "2017-07",
+      "monthNumber": 21,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 3752,
+      "cohortMonth": "2017-07",
+      "monthNumber": 22,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 3752,
+      "cohortMonth": "2017-07",
+      "monthNumber": 23,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 4057,
+      "cohortMonth": "2017-08",
+      "monthNumber": 0,
+      "observed": true,
+      "retainedCustomers": 4057,
+      "retentionRatePct": 100.0
+    },
+    {
+      "acquiredCustomers": 4057,
+      "cohortMonth": "2017-08",
+      "monthNumber": 1,
+      "observed": true,
+      "retainedCustomers": 28,
+      "retentionRatePct": 0.69
+    },
+    {
+      "acquiredCustomers": 4057,
+      "cohortMonth": "2017-08",
+      "monthNumber": 2,
+      "observed": true,
+      "retainedCustomers": 14,
+      "retentionRatePct": 0.35
+    },
+    {
+      "acquiredCustomers": 4057,
+      "cohortMonth": "2017-08",
+      "monthNumber": 3,
+      "observed": true,
+      "retainedCustomers": 11,
+      "retentionRatePct": 0.27
+    },
+    {
+      "acquiredCustomers": 4057,
+      "cohortMonth": "2017-08",
+      "monthNumber": 4,
+      "observed": true,
+      "retainedCustomers": 14,
+      "retentionRatePct": 0.35
+    },
+    {
+      "acquiredCustomers": 4057,
+      "cohortMonth": "2017-08",
+      "monthNumber": 5,
+      "observed": true,
+      "retainedCustomers": 21,
+      "retentionRatePct": 0.52
+    },
+    {
+      "acquiredCustomers": 4057,
+      "cohortMonth": "2017-08",
+      "monthNumber": 6,
+      "observed": true,
+      "retainedCustomers": 12,
+      "retentionRatePct": 0.3
+    },
+    {
+      "acquiredCustomers": 4057,
+      "cohortMonth": "2017-08",
+      "monthNumber": 7,
+      "observed": true,
+      "retainedCustomers": 11,
+      "retentionRatePct": 0.27
+    },
+    {
+      "acquiredCustomers": 4057,
+      "cohortMonth": "2017-08",
+      "monthNumber": 8,
+      "observed": true,
+      "retainedCustomers": 6,
+      "retentionRatePct": 0.15
+    },
+    {
+      "acquiredCustomers": 4057,
+      "cohortMonth": "2017-08",
+      "monthNumber": 9,
+      "observed": true,
+      "retainedCustomers": 6,
+      "retentionRatePct": 0.15
+    },
+    {
+      "acquiredCustomers": 4057,
+      "cohortMonth": "2017-08",
+      "monthNumber": 10,
+      "observed": true,
+      "retainedCustomers": 10,
+      "retentionRatePct": 0.25
+    },
+    {
+      "acquiredCustomers": 4057,
+      "cohortMonth": "2017-08",
+      "monthNumber": 11,
+      "observed": true,
+      "retainedCustomers": 8,
+      "retentionRatePct": 0.2
+    },
+    {
+      "acquiredCustomers": 4057,
+      "cohortMonth": "2017-08",
+      "monthNumber": 12,
+      "observed": true,
+      "retainedCustomers": 5,
+      "retentionRatePct": 0.12
+    },
+    {
+      "acquiredCustomers": 4057,
+      "cohortMonth": "2017-08",
+      "monthNumber": 13,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 4057,
+      "cohortMonth": "2017-08",
+      "monthNumber": 14,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 4057,
+      "cohortMonth": "2017-08",
+      "monthNumber": 15,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 4057,
+      "cohortMonth": "2017-08",
+      "monthNumber": 16,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 4057,
+      "cohortMonth": "2017-08",
+      "monthNumber": 17,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 4057,
+      "cohortMonth": "2017-08",
+      "monthNumber": 18,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 4057,
+      "cohortMonth": "2017-08",
+      "monthNumber": 19,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 4057,
+      "cohortMonth": "2017-08",
+      "monthNumber": 20,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 4057,
+      "cohortMonth": "2017-08",
+      "monthNumber": 21,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 4057,
+      "cohortMonth": "2017-08",
+      "monthNumber": 22,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 4057,
+      "cohortMonth": "2017-08",
+      "monthNumber": 23,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 4004,
+      "cohortMonth": "2017-09",
+      "monthNumber": 0,
+      "observed": true,
+      "retainedCustomers": 4004,
+      "retentionRatePct": 100.0
+    },
+    {
+      "acquiredCustomers": 4004,
+      "cohortMonth": "2017-09",
+      "monthNumber": 1,
+      "observed": true,
+      "retainedCustomers": 28,
+      "retentionRatePct": 0.7
+    },
+    {
+      "acquiredCustomers": 4004,
+      "cohortMonth": "2017-09",
+      "monthNumber": 2,
+      "observed": true,
+      "retainedCustomers": 22,
+      "retentionRatePct": 0.55
+    },
+    {
+      "acquiredCustomers": 4004,
+      "cohortMonth": "2017-09",
+      "monthNumber": 3,
+      "observed": true,
+      "retainedCustomers": 11,
+      "retentionRatePct": 0.27
+    },
+    {
+      "acquiredCustomers": 4004,
+      "cohortMonth": "2017-09",
+      "monthNumber": 4,
+      "observed": true,
+      "retainedCustomers": 18,
+      "retentionRatePct": 0.45
+    },
+    {
+      "acquiredCustomers": 4004,
+      "cohortMonth": "2017-09",
+      "monthNumber": 5,
+      "observed": true,
+      "retainedCustomers": 9,
+      "retentionRatePct": 0.22
+    },
+    {
+      "acquiredCustomers": 4004,
+      "cohortMonth": "2017-09",
+      "monthNumber": 6,
+      "observed": true,
+      "retainedCustomers": 9,
+      "retentionRatePct": 0.22
+    },
+    {
+      "acquiredCustomers": 4004,
+      "cohortMonth": "2017-09",
+      "monthNumber": 7,
+      "observed": true,
+      "retainedCustomers": 10,
+      "retentionRatePct": 0.25
+    },
+    {
+      "acquiredCustomers": 4004,
+      "cohortMonth": "2017-09",
+      "monthNumber": 8,
+      "observed": true,
+      "retainedCustomers": 11,
+      "retentionRatePct": 0.27
+    },
+    {
+      "acquiredCustomers": 4004,
+      "cohortMonth": "2017-09",
+      "monthNumber": 9,
+      "observed": true,
+      "retainedCustomers": 7,
+      "retentionRatePct": 0.17
+    },
+    {
+      "acquiredCustomers": 4004,
+      "cohortMonth": "2017-09",
+      "monthNumber": 10,
+      "observed": true,
+      "retainedCustomers": 10,
+      "retentionRatePct": 0.25
+    },
+    {
+      "acquiredCustomers": 4004,
+      "cohortMonth": "2017-09",
+      "monthNumber": 11,
+      "observed": true,
+      "retainedCustomers": 3,
+      "retentionRatePct": 0.07
+    },
+    {
+      "acquiredCustomers": 4004,
+      "cohortMonth": "2017-09",
+      "monthNumber": 12,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 4004,
+      "cohortMonth": "2017-09",
+      "monthNumber": 13,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 4004,
+      "cohortMonth": "2017-09",
+      "monthNumber": 14,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 4004,
+      "cohortMonth": "2017-09",
+      "monthNumber": 15,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 4004,
+      "cohortMonth": "2017-09",
+      "monthNumber": 16,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 4004,
+      "cohortMonth": "2017-09",
+      "monthNumber": 17,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 4004,
+      "cohortMonth": "2017-09",
+      "monthNumber": 18,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 4004,
+      "cohortMonth": "2017-09",
+      "monthNumber": 19,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 4004,
+      "cohortMonth": "2017-09",
+      "monthNumber": 20,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 4004,
+      "cohortMonth": "2017-09",
+      "monthNumber": 21,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 4004,
+      "cohortMonth": "2017-09",
+      "monthNumber": 22,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 4004,
+      "cohortMonth": "2017-09",
+      "monthNumber": 23,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 4328,
+      "cohortMonth": "2017-10",
+      "monthNumber": 0,
+      "observed": true,
+      "retainedCustomers": 4328,
+      "retentionRatePct": 100.0
+    },
+    {
+      "acquiredCustomers": 4328,
+      "cohortMonth": "2017-10",
+      "monthNumber": 1,
+      "observed": true,
+      "retainedCustomers": 31,
+      "retentionRatePct": 0.72
+    },
+    {
+      "acquiredCustomers": 4328,
+      "cohortMonth": "2017-10",
+      "monthNumber": 2,
+      "observed": true,
+      "retainedCustomers": 11,
+      "retentionRatePct": 0.25
+    },
+    {
+      "acquiredCustomers": 4328,
+      "cohortMonth": "2017-10",
+      "monthNumber": 3,
+      "observed": true,
+      "retainedCustomers": 4,
+      "retentionRatePct": 0.09
+    },
+    {
+      "acquiredCustomers": 4328,
+      "cohortMonth": "2017-10",
+      "monthNumber": 4,
+      "observed": true,
+      "retainedCustomers": 10,
+      "retentionRatePct": 0.23
+    },
+    {
+      "acquiredCustomers": 4328,
+      "cohortMonth": "2017-10",
+      "monthNumber": 5,
+      "observed": true,
+      "retainedCustomers": 9,
+      "retentionRatePct": 0.21
+    },
+    {
+      "acquiredCustomers": 4328,
+      "cohortMonth": "2017-10",
+      "monthNumber": 6,
+      "observed": true,
+      "retainedCustomers": 9,
+      "retentionRatePct": 0.21
+    },
+    {
+      "acquiredCustomers": 4328,
+      "cohortMonth": "2017-10",
+      "monthNumber": 7,
+      "observed": true,
+      "retainedCustomers": 16,
+      "retentionRatePct": 0.37
+    },
+    {
+      "acquiredCustomers": 4328,
+      "cohortMonth": "2017-10",
+      "monthNumber": 8,
+      "observed": true,
+      "retainedCustomers": 12,
+      "retentionRatePct": 0.28
+    },
+    {
+      "acquiredCustomers": 4328,
+      "cohortMonth": "2017-10",
+      "monthNumber": 9,
+      "observed": true,
+      "retainedCustomers": 8,
+      "retentionRatePct": 0.18
+    },
+    {
+      "acquiredCustomers": 4328,
+      "cohortMonth": "2017-10",
+      "monthNumber": 10,
+      "observed": true,
+      "retainedCustomers": 9,
+      "retentionRatePct": 0.21
+    },
+    {
+      "acquiredCustomers": 4328,
+      "cohortMonth": "2017-10",
+      "monthNumber": 11,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 4328,
+      "cohortMonth": "2017-10",
+      "monthNumber": 12,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 4328,
+      "cohortMonth": "2017-10",
+      "monthNumber": 13,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 4328,
+      "cohortMonth": "2017-10",
+      "monthNumber": 14,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 4328,
+      "cohortMonth": "2017-10",
+      "monthNumber": 15,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 4328,
+      "cohortMonth": "2017-10",
+      "monthNumber": 16,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 4328,
+      "cohortMonth": "2017-10",
+      "monthNumber": 17,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 4328,
+      "cohortMonth": "2017-10",
+      "monthNumber": 18,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 4328,
+      "cohortMonth": "2017-10",
+      "monthNumber": 19,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 4328,
+      "cohortMonth": "2017-10",
+      "monthNumber": 20,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 4328,
+      "cohortMonth": "2017-10",
+      "monthNumber": 21,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 4328,
+      "cohortMonth": "2017-10",
+      "monthNumber": 22,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 4328,
+      "cohortMonth": "2017-10",
+      "monthNumber": 23,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 7060,
+      "cohortMonth": "2017-11",
+      "monthNumber": 0,
+      "observed": true,
+      "retainedCustomers": 7060,
+      "retentionRatePct": 100.0
+    },
+    {
+      "acquiredCustomers": 7060,
+      "cohortMonth": "2017-11",
+      "monthNumber": 1,
+      "observed": true,
+      "retainedCustomers": 40,
+      "retentionRatePct": 0.57
+    },
+    {
+      "acquiredCustomers": 7060,
+      "cohortMonth": "2017-11",
+      "monthNumber": 2,
+      "observed": true,
+      "retainedCustomers": 26,
+      "retentionRatePct": 0.37
+    },
+    {
+      "acquiredCustomers": 7060,
+      "cohortMonth": "2017-11",
+      "monthNumber": 3,
+      "observed": true,
+      "retainedCustomers": 12,
+      "retentionRatePct": 0.17
+    },
+    {
+      "acquiredCustomers": 7060,
+      "cohortMonth": "2017-11",
+      "monthNumber": 4,
+      "observed": true,
+      "retainedCustomers": 12,
+      "retentionRatePct": 0.17
+    },
+    {
+      "acquiredCustomers": 7060,
+      "cohortMonth": "2017-11",
+      "monthNumber": 5,
+      "observed": true,
+      "retainedCustomers": 13,
+      "retentionRatePct": 0.18
+    },
+    {
+      "acquiredCustomers": 7060,
+      "cohortMonth": "2017-11",
+      "monthNumber": 6,
+      "observed": true,
+      "retainedCustomers": 8,
+      "retentionRatePct": 0.11
+    },
+    {
+      "acquiredCustomers": 7060,
+      "cohortMonth": "2017-11",
+      "monthNumber": 7,
+      "observed": true,
+      "retainedCustomers": 13,
+      "retentionRatePct": 0.18
+    },
+    {
+      "acquiredCustomers": 7060,
+      "cohortMonth": "2017-11",
+      "monthNumber": 8,
+      "observed": true,
+      "retainedCustomers": 9,
+      "retentionRatePct": 0.13
+    },
+    {
+      "acquiredCustomers": 7060,
+      "cohortMonth": "2017-11",
+      "monthNumber": 9,
+      "observed": true,
+      "retainedCustomers": 4,
+      "retentionRatePct": 0.06
+    },
+    {
+      "acquiredCustomers": 7060,
+      "cohortMonth": "2017-11",
+      "monthNumber": 10,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 7060,
+      "cohortMonth": "2017-11",
+      "monthNumber": 11,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 7060,
+      "cohortMonth": "2017-11",
+      "monthNumber": 12,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 7060,
+      "cohortMonth": "2017-11",
+      "monthNumber": 13,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 7060,
+      "cohortMonth": "2017-11",
+      "monthNumber": 14,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 7060,
+      "cohortMonth": "2017-11",
+      "monthNumber": 15,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 7060,
+      "cohortMonth": "2017-11",
+      "monthNumber": 16,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 7060,
+      "cohortMonth": "2017-11",
+      "monthNumber": 17,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 7060,
+      "cohortMonth": "2017-11",
+      "monthNumber": 18,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 7060,
+      "cohortMonth": "2017-11",
+      "monthNumber": 19,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 7060,
+      "cohortMonth": "2017-11",
+      "monthNumber": 20,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 7060,
+      "cohortMonth": "2017-11",
+      "monthNumber": 21,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 7060,
+      "cohortMonth": "2017-11",
+      "monthNumber": 22,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 7060,
+      "cohortMonth": "2017-11",
+      "monthNumber": 23,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 5338,
+      "cohortMonth": "2017-12",
+      "monthNumber": 0,
+      "observed": true,
+      "retainedCustomers": 5338,
+      "retentionRatePct": 100.0
+    },
+    {
+      "acquiredCustomers": 5338,
+      "cohortMonth": "2017-12",
+      "monthNumber": 1,
+      "observed": true,
+      "retainedCustomers": 11,
+      "retentionRatePct": 0.21
+    },
+    {
+      "acquiredCustomers": 5338,
+      "cohortMonth": "2017-12",
+      "monthNumber": 2,
+      "observed": true,
+      "retainedCustomers": 15,
+      "retentionRatePct": 0.28
+    },
+    {
+      "acquiredCustomers": 5338,
+      "cohortMonth": "2017-12",
+      "monthNumber": 3,
+      "observed": true,
+      "retainedCustomers": 18,
+      "retentionRatePct": 0.34
+    },
+    {
+      "acquiredCustomers": 5338,
+      "cohortMonth": "2017-12",
+      "monthNumber": 4,
+      "observed": true,
+      "retainedCustomers": 14,
+      "retentionRatePct": 0.26
+    },
+    {
+      "acquiredCustomers": 5338,
+      "cohortMonth": "2017-12",
+      "monthNumber": 5,
+      "observed": true,
+      "retainedCustomers": 11,
+      "retentionRatePct": 0.21
+    },
+    {
+      "acquiredCustomers": 5338,
+      "cohortMonth": "2017-12",
+      "monthNumber": 6,
+      "observed": true,
+      "retainedCustomers": 9,
+      "retentionRatePct": 0.17
+    },
+    {
+      "acquiredCustomers": 5338,
+      "cohortMonth": "2017-12",
+      "monthNumber": 7,
+      "observed": true,
+      "retainedCustomers": 1,
+      "retentionRatePct": 0.02
+    },
+    {
+      "acquiredCustomers": 5338,
+      "cohortMonth": "2017-12",
+      "monthNumber": 8,
+      "observed": true,
+      "retainedCustomers": 10,
+      "retentionRatePct": 0.19
+    },
+    {
+      "acquiredCustomers": 5338,
+      "cohortMonth": "2017-12",
+      "monthNumber": 9,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 5338,
+      "cohortMonth": "2017-12",
+      "monthNumber": 10,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 5338,
+      "cohortMonth": "2017-12",
+      "monthNumber": 11,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 5338,
+      "cohortMonth": "2017-12",
+      "monthNumber": 12,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 5338,
+      "cohortMonth": "2017-12",
+      "monthNumber": 13,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 5338,
+      "cohortMonth": "2017-12",
+      "monthNumber": 14,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 5338,
+      "cohortMonth": "2017-12",
+      "monthNumber": 15,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 5338,
+      "cohortMonth": "2017-12",
+      "monthNumber": 16,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 5338,
+      "cohortMonth": "2017-12",
+      "monthNumber": 17,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 5338,
+      "cohortMonth": "2017-12",
+      "monthNumber": 18,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 5338,
+      "cohortMonth": "2017-12",
+      "monthNumber": 19,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 5338,
+      "cohortMonth": "2017-12",
+      "monthNumber": 20,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 5338,
+      "cohortMonth": "2017-12",
+      "monthNumber": 21,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 5338,
+      "cohortMonth": "2017-12",
+      "monthNumber": 22,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 5338,
+      "cohortMonth": "2017-12",
+      "monthNumber": 23,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 6842,
+      "cohortMonth": "2018-01",
+      "monthNumber": 0,
+      "observed": true,
+      "retainedCustomers": 6842,
+      "retentionRatePct": 100.0
+    },
+    {
+      "acquiredCustomers": 6842,
+      "cohortMonth": "2018-01",
+      "monthNumber": 1,
+      "observed": true,
+      "retainedCustomers": 23,
+      "retentionRatePct": 0.34
+    },
+    {
+      "acquiredCustomers": 6842,
+      "cohortMonth": "2018-01",
+      "monthNumber": 2,
+      "observed": true,
+      "retainedCustomers": 25,
+      "retentionRatePct": 0.37
+    },
+    {
+      "acquiredCustomers": 6842,
+      "cohortMonth": "2018-01",
+      "monthNumber": 3,
+      "observed": true,
+      "retainedCustomers": 20,
+      "retentionRatePct": 0.29
+    },
+    {
+      "acquiredCustomers": 6842,
+      "cohortMonth": "2018-01",
+      "monthNumber": 4,
+      "observed": true,
+      "retainedCustomers": 20,
+      "retentionRatePct": 0.29
+    },
+    {
+      "acquiredCustomers": 6842,
+      "cohortMonth": "2018-01",
+      "monthNumber": 5,
+      "observed": true,
+      "retainedCustomers": 11,
+      "retentionRatePct": 0.16
+    },
+    {
+      "acquiredCustomers": 6842,
+      "cohortMonth": "2018-01",
+      "monthNumber": 6,
+      "observed": true,
+      "retainedCustomers": 12,
+      "retentionRatePct": 0.18
+    },
+    {
+      "acquiredCustomers": 6842,
+      "cohortMonth": "2018-01",
+      "monthNumber": 7,
+      "observed": true,
+      "retainedCustomers": 16,
+      "retentionRatePct": 0.23
+    },
+    {
+      "acquiredCustomers": 6842,
+      "cohortMonth": "2018-01",
+      "monthNumber": 8,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 6842,
+      "cohortMonth": "2018-01",
+      "monthNumber": 9,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 6842,
+      "cohortMonth": "2018-01",
+      "monthNumber": 10,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 6842,
+      "cohortMonth": "2018-01",
+      "monthNumber": 11,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 6842,
+      "cohortMonth": "2018-01",
+      "monthNumber": 12,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 6842,
+      "cohortMonth": "2018-01",
+      "monthNumber": 13,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 6842,
+      "cohortMonth": "2018-01",
+      "monthNumber": 14,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 6842,
+      "cohortMonth": "2018-01",
+      "monthNumber": 15,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 6842,
+      "cohortMonth": "2018-01",
+      "monthNumber": 16,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 6842,
+      "cohortMonth": "2018-01",
+      "monthNumber": 17,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 6842,
+      "cohortMonth": "2018-01",
+      "monthNumber": 18,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 6842,
+      "cohortMonth": "2018-01",
+      "monthNumber": 19,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 6842,
+      "cohortMonth": "2018-01",
+      "monthNumber": 20,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 6842,
+      "cohortMonth": "2018-01",
+      "monthNumber": 21,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 6842,
+      "cohortMonth": "2018-01",
+      "monthNumber": 22,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 6842,
+      "cohortMonth": "2018-01",
+      "monthNumber": 23,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 6288,
+      "cohortMonth": "2018-02",
+      "monthNumber": 0,
+      "observed": true,
+      "retainedCustomers": 6288,
+      "retentionRatePct": 100.0
+    },
+    {
+      "acquiredCustomers": 6288,
+      "cohortMonth": "2018-02",
+      "monthNumber": 1,
+      "observed": true,
+      "retainedCustomers": 22,
+      "retentionRatePct": 0.35
+    },
+    {
+      "acquiredCustomers": 6288,
+      "cohortMonth": "2018-02",
+      "monthNumber": 2,
+      "observed": true,
+      "retainedCustomers": 25,
+      "retentionRatePct": 0.4
+    },
+    {
+      "acquiredCustomers": 6288,
+      "cohortMonth": "2018-02",
+      "monthNumber": 3,
+      "observed": true,
+      "retainedCustomers": 19,
+      "retentionRatePct": 0.3
+    },
+    {
+      "acquiredCustomers": 6288,
+      "cohortMonth": "2018-02",
+      "monthNumber": 4,
+      "observed": true,
+      "retainedCustomers": 16,
+      "retentionRatePct": 0.25
+    },
+    {
+      "acquiredCustomers": 6288,
+      "cohortMonth": "2018-02",
+      "monthNumber": 5,
+      "observed": true,
+      "retainedCustomers": 14,
+      "retentionRatePct": 0.22
+    },
+    {
+      "acquiredCustomers": 6288,
+      "cohortMonth": "2018-02",
+      "monthNumber": 6,
+      "observed": true,
+      "retainedCustomers": 13,
+      "retentionRatePct": 0.21
+    },
+    {
+      "acquiredCustomers": 6288,
+      "cohortMonth": "2018-02",
+      "monthNumber": 7,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 6288,
+      "cohortMonth": "2018-02",
+      "monthNumber": 8,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 6288,
+      "cohortMonth": "2018-02",
+      "monthNumber": 9,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 6288,
+      "cohortMonth": "2018-02",
+      "monthNumber": 10,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 6288,
+      "cohortMonth": "2018-02",
+      "monthNumber": 11,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 6288,
+      "cohortMonth": "2018-02",
+      "monthNumber": 12,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 6288,
+      "cohortMonth": "2018-02",
+      "monthNumber": 13,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 6288,
+      "cohortMonth": "2018-02",
+      "monthNumber": 14,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 6288,
+      "cohortMonth": "2018-02",
+      "monthNumber": 15,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 6288,
+      "cohortMonth": "2018-02",
+      "monthNumber": 16,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 6288,
+      "cohortMonth": "2018-02",
+      "monthNumber": 17,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 6288,
+      "cohortMonth": "2018-02",
+      "monthNumber": 18,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 6288,
+      "cohortMonth": "2018-02",
+      "monthNumber": 19,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 6288,
+      "cohortMonth": "2018-02",
+      "monthNumber": 20,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 6288,
+      "cohortMonth": "2018-02",
+      "monthNumber": 21,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 6288,
+      "cohortMonth": "2018-02",
+      "monthNumber": 22,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 6288,
+      "cohortMonth": "2018-02",
+      "monthNumber": 23,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 6774,
+      "cohortMonth": "2018-03",
+      "monthNumber": 0,
+      "observed": true,
+      "retainedCustomers": 6774,
+      "retentionRatePct": 100.0
+    },
+    {
+      "acquiredCustomers": 6774,
+      "cohortMonth": "2018-03",
+      "monthNumber": 1,
+      "observed": true,
+      "retainedCustomers": 27,
+      "retentionRatePct": 0.4
+    },
+    {
+      "acquiredCustomers": 6774,
+      "cohortMonth": "2018-03",
+      "monthNumber": 2,
+      "observed": true,
+      "retainedCustomers": 20,
+      "retentionRatePct": 0.3
+    },
+    {
+      "acquiredCustomers": 6774,
+      "cohortMonth": "2018-03",
+      "monthNumber": 3,
+      "observed": true,
+      "retainedCustomers": 20,
+      "retentionRatePct": 0.3
+    },
+    {
+      "acquiredCustomers": 6774,
+      "cohortMonth": "2018-03",
+      "monthNumber": 4,
+      "observed": true,
+      "retainedCustomers": 8,
+      "retentionRatePct": 0.12
+    },
+    {
+      "acquiredCustomers": 6774,
+      "cohortMonth": "2018-03",
+      "monthNumber": 5,
+      "observed": true,
+      "retainedCustomers": 8,
+      "retentionRatePct": 0.12
+    },
+    {
+      "acquiredCustomers": 6774,
+      "cohortMonth": "2018-03",
+      "monthNumber": 6,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 6774,
+      "cohortMonth": "2018-03",
+      "monthNumber": 7,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 6774,
+      "cohortMonth": "2018-03",
+      "monthNumber": 8,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 6774,
+      "cohortMonth": "2018-03",
+      "monthNumber": 9,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 6774,
+      "cohortMonth": "2018-03",
+      "monthNumber": 10,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 6774,
+      "cohortMonth": "2018-03",
+      "monthNumber": 11,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 6774,
+      "cohortMonth": "2018-03",
+      "monthNumber": 12,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 6774,
+      "cohortMonth": "2018-03",
+      "monthNumber": 13,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 6774,
+      "cohortMonth": "2018-03",
+      "monthNumber": 14,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 6774,
+      "cohortMonth": "2018-03",
+      "monthNumber": 15,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 6774,
+      "cohortMonth": "2018-03",
+      "monthNumber": 16,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 6774,
+      "cohortMonth": "2018-03",
+      "monthNumber": 17,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 6774,
+      "cohortMonth": "2018-03",
+      "monthNumber": 18,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 6774,
+      "cohortMonth": "2018-03",
+      "monthNumber": 19,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 6774,
+      "cohortMonth": "2018-03",
+      "monthNumber": 20,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 6774,
+      "cohortMonth": "2018-03",
+      "monthNumber": 21,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 6774,
+      "cohortMonth": "2018-03",
+      "monthNumber": 22,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 6774,
+      "cohortMonth": "2018-03",
+      "monthNumber": 23,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 6582,
+      "cohortMonth": "2018-04",
+      "monthNumber": 0,
+      "observed": true,
+      "retainedCustomers": 6582,
+      "retentionRatePct": 100.0
+    },
+    {
+      "acquiredCustomers": 6582,
+      "cohortMonth": "2018-04",
+      "monthNumber": 1,
+      "observed": true,
+      "retainedCustomers": 39,
+      "retentionRatePct": 0.59
+    },
+    {
+      "acquiredCustomers": 6582,
+      "cohortMonth": "2018-04",
+      "monthNumber": 2,
+      "observed": true,
+      "retainedCustomers": 20,
+      "retentionRatePct": 0.3
+    },
+    {
+      "acquiredCustomers": 6582,
+      "cohortMonth": "2018-04",
+      "monthNumber": 3,
+      "observed": true,
+      "retainedCustomers": 16,
+      "retentionRatePct": 0.24
+    },
+    {
+      "acquiredCustomers": 6582,
+      "cohortMonth": "2018-04",
+      "monthNumber": 4,
+      "observed": true,
+      "retainedCustomers": 9,
+      "retentionRatePct": 0.14
+    },
+    {
+      "acquiredCustomers": 6582,
+      "cohortMonth": "2018-04",
+      "monthNumber": 5,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 6582,
+      "cohortMonth": "2018-04",
+      "monthNumber": 6,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 6582,
+      "cohortMonth": "2018-04",
+      "monthNumber": 7,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 6582,
+      "cohortMonth": "2018-04",
+      "monthNumber": 8,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 6582,
+      "cohortMonth": "2018-04",
+      "monthNumber": 9,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 6582,
+      "cohortMonth": "2018-04",
+      "monthNumber": 10,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 6582,
+      "cohortMonth": "2018-04",
+      "monthNumber": 11,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 6582,
+      "cohortMonth": "2018-04",
+      "monthNumber": 12,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 6582,
+      "cohortMonth": "2018-04",
+      "monthNumber": 13,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 6582,
+      "cohortMonth": "2018-04",
+      "monthNumber": 14,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 6582,
+      "cohortMonth": "2018-04",
+      "monthNumber": 15,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 6582,
+      "cohortMonth": "2018-04",
+      "monthNumber": 16,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 6582,
+      "cohortMonth": "2018-04",
+      "monthNumber": 17,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 6582,
+      "cohortMonth": "2018-04",
+      "monthNumber": 18,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 6582,
+      "cohortMonth": "2018-04",
+      "monthNumber": 19,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 6582,
+      "cohortMonth": "2018-04",
+      "monthNumber": 20,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 6582,
+      "cohortMonth": "2018-04",
+      "monthNumber": 21,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 6582,
+      "cohortMonth": "2018-04",
+      "monthNumber": 22,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 6582,
+      "cohortMonth": "2018-04",
+      "monthNumber": 23,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 6506,
+      "cohortMonth": "2018-05",
+      "monthNumber": 0,
+      "observed": true,
+      "retainedCustomers": 6506,
+      "retentionRatePct": 100.0
+    },
+    {
+      "acquiredCustomers": 6506,
+      "cohortMonth": "2018-05",
+      "monthNumber": 1,
+      "observed": true,
+      "retainedCustomers": 34,
+      "retentionRatePct": 0.52
+    },
+    {
+      "acquiredCustomers": 6506,
+      "cohortMonth": "2018-05",
+      "monthNumber": 2,
+      "observed": true,
+      "retainedCustomers": 17,
+      "retentionRatePct": 0.26
+    },
+    {
+      "acquiredCustomers": 6506,
+      "cohortMonth": "2018-05",
+      "monthNumber": 3,
+      "observed": true,
+      "retainedCustomers": 12,
+      "retentionRatePct": 0.18
+    },
+    {
+      "acquiredCustomers": 6506,
+      "cohortMonth": "2018-05",
+      "monthNumber": 4,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 6506,
+      "cohortMonth": "2018-05",
+      "monthNumber": 5,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 6506,
+      "cohortMonth": "2018-05",
+      "monthNumber": 6,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 6506,
+      "cohortMonth": "2018-05",
+      "monthNumber": 7,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 6506,
+      "cohortMonth": "2018-05",
+      "monthNumber": 8,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 6506,
+      "cohortMonth": "2018-05",
+      "monthNumber": 9,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 6506,
+      "cohortMonth": "2018-05",
+      "monthNumber": 10,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 6506,
+      "cohortMonth": "2018-05",
+      "monthNumber": 11,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 6506,
+      "cohortMonth": "2018-05",
+      "monthNumber": 12,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 6506,
+      "cohortMonth": "2018-05",
+      "monthNumber": 13,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 6506,
+      "cohortMonth": "2018-05",
+      "monthNumber": 14,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 6506,
+      "cohortMonth": "2018-05",
+      "monthNumber": 15,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 6506,
+      "cohortMonth": "2018-05",
+      "monthNumber": 16,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 6506,
+      "cohortMonth": "2018-05",
+      "monthNumber": 17,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 6506,
+      "cohortMonth": "2018-05",
+      "monthNumber": 18,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 6506,
+      "cohortMonth": "2018-05",
+      "monthNumber": 19,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 6506,
+      "cohortMonth": "2018-05",
+      "monthNumber": 20,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 6506,
+      "cohortMonth": "2018-05",
+      "monthNumber": 21,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 6506,
+      "cohortMonth": "2018-05",
+      "monthNumber": 22,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 6506,
+      "cohortMonth": "2018-05",
+      "monthNumber": 23,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 5878,
+      "cohortMonth": "2018-06",
+      "monthNumber": 0,
+      "observed": true,
+      "retainedCustomers": 5878,
+      "retentionRatePct": 100.0
+    },
+    {
+      "acquiredCustomers": 5878,
+      "cohortMonth": "2018-06",
+      "monthNumber": 1,
+      "observed": true,
+      "retainedCustomers": 25,
+      "retentionRatePct": 0.43
+    },
+    {
+      "acquiredCustomers": 5878,
+      "cohortMonth": "2018-06",
+      "monthNumber": 2,
+      "observed": true,
+      "retainedCustomers": 16,
+      "retentionRatePct": 0.27
+    },
+    {
+      "acquiredCustomers": 5878,
+      "cohortMonth": "2018-06",
+      "monthNumber": 3,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 5878,
+      "cohortMonth": "2018-06",
+      "monthNumber": 4,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 5878,
+      "cohortMonth": "2018-06",
+      "monthNumber": 5,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 5878,
+      "cohortMonth": "2018-06",
+      "monthNumber": 6,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 5878,
+      "cohortMonth": "2018-06",
+      "monthNumber": 7,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 5878,
+      "cohortMonth": "2018-06",
+      "monthNumber": 8,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 5878,
+      "cohortMonth": "2018-06",
+      "monthNumber": 9,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 5878,
+      "cohortMonth": "2018-06",
+      "monthNumber": 10,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 5878,
+      "cohortMonth": "2018-06",
+      "monthNumber": 11,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 5878,
+      "cohortMonth": "2018-06",
+      "monthNumber": 12,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 5878,
+      "cohortMonth": "2018-06",
+      "monthNumber": 13,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 5878,
+      "cohortMonth": "2018-06",
+      "monthNumber": 14,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 5878,
+      "cohortMonth": "2018-06",
+      "monthNumber": 15,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 5878,
+      "cohortMonth": "2018-06",
+      "monthNumber": 16,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 5878,
+      "cohortMonth": "2018-06",
+      "monthNumber": 17,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 5878,
+      "cohortMonth": "2018-06",
+      "monthNumber": 18,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 5878,
+      "cohortMonth": "2018-06",
+      "monthNumber": 19,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 5878,
+      "cohortMonth": "2018-06",
+      "monthNumber": 20,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 5878,
+      "cohortMonth": "2018-06",
+      "monthNumber": 21,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 5878,
+      "cohortMonth": "2018-06",
+      "monthNumber": 22,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 5878,
+      "cohortMonth": "2018-06",
+      "monthNumber": 23,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 5949,
+      "cohortMonth": "2018-07",
+      "monthNumber": 0,
+      "observed": true,
+      "retainedCustomers": 5949,
+      "retentionRatePct": 100.0
+    },
+    {
+      "acquiredCustomers": 5949,
+      "cohortMonth": "2018-07",
+      "monthNumber": 1,
+      "observed": true,
+      "retainedCustomers": 31,
+      "retentionRatePct": 0.52
+    },
+    {
+      "acquiredCustomers": 5949,
+      "cohortMonth": "2018-07",
+      "monthNumber": 2,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 5949,
+      "cohortMonth": "2018-07",
+      "monthNumber": 3,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 5949,
+      "cohortMonth": "2018-07",
+      "monthNumber": 4,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 5949,
+      "cohortMonth": "2018-07",
+      "monthNumber": 5,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 5949,
+      "cohortMonth": "2018-07",
+      "monthNumber": 6,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 5949,
+      "cohortMonth": "2018-07",
+      "monthNumber": 7,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 5949,
+      "cohortMonth": "2018-07",
+      "monthNumber": 8,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 5949,
+      "cohortMonth": "2018-07",
+      "monthNumber": 9,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 5949,
+      "cohortMonth": "2018-07",
+      "monthNumber": 10,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 5949,
+      "cohortMonth": "2018-07",
+      "monthNumber": 11,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 5949,
+      "cohortMonth": "2018-07",
+      "monthNumber": 12,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 5949,
+      "cohortMonth": "2018-07",
+      "monthNumber": 13,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 5949,
+      "cohortMonth": "2018-07",
+      "monthNumber": 14,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 5949,
+      "cohortMonth": "2018-07",
+      "monthNumber": 15,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 5949,
+      "cohortMonth": "2018-07",
+      "monthNumber": 16,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 5949,
+      "cohortMonth": "2018-07",
+      "monthNumber": 17,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 5949,
+      "cohortMonth": "2018-07",
+      "monthNumber": 18,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 5949,
+      "cohortMonth": "2018-07",
+      "monthNumber": 19,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 5949,
+      "cohortMonth": "2018-07",
+      "monthNumber": 20,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 5949,
+      "cohortMonth": "2018-07",
+      "monthNumber": 21,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 5949,
+      "cohortMonth": "2018-07",
+      "monthNumber": 22,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 5949,
+      "cohortMonth": "2018-07",
+      "monthNumber": 23,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 6144,
+      "cohortMonth": "2018-08",
+      "monthNumber": 0,
+      "observed": true,
+      "retainedCustomers": 6144,
+      "retentionRatePct": 100.0
+    },
+    {
+      "acquiredCustomers": 6144,
+      "cohortMonth": "2018-08",
+      "monthNumber": 1,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 6144,
+      "cohortMonth": "2018-08",
+      "monthNumber": 2,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 6144,
+      "cohortMonth": "2018-08",
+      "monthNumber": 3,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 6144,
+      "cohortMonth": "2018-08",
+      "monthNumber": 4,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 6144,
+      "cohortMonth": "2018-08",
+      "monthNumber": 5,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 6144,
+      "cohortMonth": "2018-08",
+      "monthNumber": 6,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 6144,
+      "cohortMonth": "2018-08",
+      "monthNumber": 7,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 6144,
+      "cohortMonth": "2018-08",
+      "monthNumber": 8,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 6144,
+      "cohortMonth": "2018-08",
+      "monthNumber": 9,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 6144,
+      "cohortMonth": "2018-08",
+      "monthNumber": 10,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 6144,
+      "cohortMonth": "2018-08",
+      "monthNumber": 11,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 6144,
+      "cohortMonth": "2018-08",
+      "monthNumber": 12,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 6144,
+      "cohortMonth": "2018-08",
+      "monthNumber": 13,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 6144,
+      "cohortMonth": "2018-08",
+      "monthNumber": 14,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 6144,
+      "cohortMonth": "2018-08",
+      "monthNumber": 15,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 6144,
+      "cohortMonth": "2018-08",
+      "monthNumber": 16,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 6144,
+      "cohortMonth": "2018-08",
+      "monthNumber": 17,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 6144,
+      "cohortMonth": "2018-08",
+      "monthNumber": 18,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 6144,
+      "cohortMonth": "2018-08",
+      "monthNumber": 19,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 6144,
+      "cohortMonth": "2018-08",
+      "monthNumber": 20,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 6144,
+      "cohortMonth": "2018-08",
+      "monthNumber": 21,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 6144,
+      "cohortMonth": "2018-08",
+      "monthNumber": 22,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    },
+    {
+      "acquiredCustomers": 6144,
+      "cohortMonth": "2018-08",
+      "monthNumber": 23,
+      "observed": false,
+      "retainedCustomers": null,
+      "retentionRatePct": null
+    }
+  ],
+  "dataset": {
+    "name": "Olist Brazilian E-Commerce Public Dataset",
+    "observationEnd": "2018-08",
+    "observationWindow": "2016-09 to 2018-08",
+    "status": "verified_historical_snapshot"
+  },
+  "km": [
+    {
+      "ci95High": 0.016051966283486596,
+      "ci95Low": 0.01447312516846655,
+      "customers": 93358,
+      "horizonDays": 30,
+      "repeatIncidence": 0.015242275069739741,
+      "riskSet": 86127
+    },
+    {
+      "ci95High": 0.019644412566666714,
+      "ci95Low": 0.017880586036280843,
+      "customers": 93358,
+      "horizonDays": 60,
+      "repeatIncidence": 0.018741959773437955,
+      "riskSet": 80021
+    },
+    {
+      "ci95High": 0.0222477847174265,
+      "ci95Low": 0.02035335816496564,
+      "customers": 93358,
+      "horizonDays": 90,
+      "repeatIncidence": 0.021279730139541764,
+      "riskSet": 73983
+    },
+    {
+      "ci95High": 0.02857187671225958,
+      "ci95Low": 0.026342534108991122,
+      "customers": 93358,
+      "horizonDays": 180,
+      "repeatIncidence": 0.027434890846977922,
+      "riskSet": 54698
+    },
+    {
+      "ci95High": 0.03969257815255689,
+      "ci95Low": 0.03660356044638036,
+      "customers": 93358,
+      "horizonDays": 365,
+      "repeatIncidence": 0.038117413841527226,
+      "riskSet": 20685
+    }
+  ],
+  "lineage": {
+    "cohortSource": "reports/phase2_outputs/cohort_retention.csv",
+    "kmSource": "reports/phase25_outputs/repeat_km_primary.csv",
+    "researchSummary": "reports/PHASE25_RESEARCH_RESULTS.md",
+    "rfmSource": "reports/phase2_outputs/rfm_segments.csv"
+  },
+  "rfm": [
+    {
+      "averagePurchaseFrequency": 1.0,
+      "customerSharePct": 38.98,
+      "customers": 36392,
+      "merchandiseSharePct": 38.42,
+      "merchandiseValue": 5080115.48,
+      "repeatCustomerSharePct": 0.0,
+      "segment": "Inactive in observed window"
+    },
+    {
+      "averagePurchaseFrequency": 1.0,
+      "customerSharePct": 8.66,
+      "customers": 8084,
+      "merchandiseSharePct": 27.44,
+      "merchandiseValue": 3628016.2,
+      "repeatCustomerSharePct": 0.0,
+      "segment": "High-value one-time customers"
+    },
+    {
+      "averagePurchaseFrequency": 1.0,
+      "customerSharePct": 33.01,
+      "customers": 30822,
+      "merchandiseSharePct": 19.22,
+      "merchandiseValue": 2541320.44,
+      "repeatCustomerSharePct": 0.0,
+      "segment": "Recent customers"
+    },
+    {
+      "averagePurchaseFrequency": 1.0,
+      "customerSharePct": 16.34,
+      "customers": 15259,
+      "merchandiseSharePct": 9.41,
+      "merchandiseValue": 1243637.24,
+      "repeatCustomerSharePct": 0.0,
+      "segment": "Other established customers"
+    },
+    {
+      "averagePurchaseFrequency": 2.27,
+      "customerSharePct": 0.61,
+      "customers": 571,
+      "merchandiseSharePct": 1.9,
+      "merchandiseValue": 250938.61,
+      "repeatCustomerSharePct": 100.0,
+      "segment": "Champions"
+    },
+    {
+      "averagePurchaseFrequency": 2.08,
+      "customerSharePct": 1.07,
+      "customers": 997,
+      "merchandiseSharePct": 1.88,
+      "merchandiseValue": 248766.51,
+      "repeatCustomerSharePct": 100.0,
+      "segment": "Repeat customers at risk"
+    },
+    {
+      "averagePurchaseFrequency": 2.07,
+      "customerSharePct": 1.32,
+      "customers": 1233,
+      "merchandiseSharePct": 1.73,
+      "merchandiseValue": 228703.63,
+      "repeatCustomerSharePct": 100.0,
+      "segment": "Loyal repeat customers"
+    }
+  ],
+  "schemaVersion": 1,
+  "summary": {
+    "observedCustomers": 93358,
+    "repeat365": {
+      "ci95High": 0.03969257815255689,
+      "ci95Low": 0.03660356044638036,
+      "customers": 93358,
+      "horizonDays": 365,
+      "repeatIncidence": 0.038117413841527226,
+      "riskSet": 20685
+    },
+    "repeat90": {
+      "ci95High": 0.0222477847174265,
+      "ci95Low": 0.02035335816496564,
+      "customers": 93358,
+      "horizonDays": 90,
+      "repeatIncidence": 0.021279730139541764,
+      "riskSet": 73983
+    },
+    "stability": {
+      "cohenKappa": 0.42623884288497094,
+      "commonCustomers": 75387,
+      "earlierCutoff": "2018-06-01",
+      "exactAgreement": 0.5775664239192434,
+      "laterCutoff": "2018-09-01"
+    }
+  }
+}

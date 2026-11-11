@@ -28,7 +28,7 @@ def build_analytics_mart(source: Path, target: Path) -> list[dict]:
     temporary = target.with_name(f".{target.name}.tmp")
     if temporary.exists():
         temporary.unlink()
-    connection = sqlite3.connect(temporary)
+    connection = sqlite3.connect(temporary, uri=True)
     connection.row_factory = sqlite3.Row
     try:
         connection.execute("PRAGMA foreign_keys = ON")

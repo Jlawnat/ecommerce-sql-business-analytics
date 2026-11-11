@@ -1,0 +1,1371 @@
+{
+  "comparisons": {
+    "categories": [
+      {
+        "averageReviewScore": 4.13,
+        "ci95High": 0.11098733981753141,
+        "ci95Low": 0.08760577705827459,
+        "eligibleOrders": 2503,
+        "group": "electronics",
+        "lateOrders": 247,
+        "lateRate": 0.09868158210147823
+      },
+      {
+        "averageReviewScore": 4.12,
+        "ci95High": 0.10429943238685488,
+        "ci95Low": 0.0826103834549283,
+        "eligibleOrders": 2756,
+        "group": "baby",
+        "lateOrders": 256,
+        "lateRate": 0.09288824383164006
+      },
+      {
+        "averageReviewScore": 4.15,
+        "ci95High": 0.11538316911427839,
+        "ci95Low": 0.07322334349807245,
+        "eligibleOrders": 727,
+        "group": "construction_tools_construction",
+        "lateOrders": 67,
+        "lateRate": 0.0921595598349381
+      },
+      {
+        "averageReviewScore": 3.65,
+        "ci95High": 0.10921023854288933,
+        "ci95Low": 0.07714115842199848,
+        "eligibleOrders": 1251,
+        "group": "office_furniture",
+        "lateOrders": 115,
+        "lateRate": 0.09192645883293366
+      },
+      {
+        "averageReviewScore": 4.04,
+        "ci95High": 0.10757032908766545,
+        "ci95Low": 0.07695033973660989,
+        "eligibleOrders": 1361,
+        "group": "[uncategorized]",
+        "lateOrders": 124,
+        "lateRate": 0.09110947832476121
+      },
+      {
+        "averageReviewScore": 4.23,
+        "ci95High": 0.09607703252948772,
+        "ci95Low": 0.08399607118633014,
+        "eligibleOrders": 8614,
+        "group": "health_beauty",
+        "lateOrders": 774,
+        "lateRate": 0.0898537264917576
+      },
+      {
+        "averageReviewScore": 4.24,
+        "ci95High": 0.11427094012201922,
+        "ci95Low": 0.06882314624961977,
+        "eligibleOrders": 607,
+        "group": "musical_instruments",
+        "lateOrders": 54,
+        "lateRate": 0.08896210873146623
+      },
+      {
+        "averageReviewScore": 4.01,
+        "ci95High": 0.09385436824479582,
+        "ci95Low": 0.08228261956867741,
+        "eligibleOrders": 9204,
+        "group": "bed_bath_table",
+        "lateOrders": 809,
+        "lateRate": 0.08789656671012604
+      },
+      {
+        "averageReviewScore": 4.15,
+        "ci95High": 0.09589364784420493,
+        "ci95Low": 0.07798488330943912,
+        "eligibleOrders": 3791,
+        "group": "auto",
+        "lateOrders": 328,
+        "lateRate": 0.08652070693748351
+      },
+      {
+        "averageReviewScore": 4.08,
+        "ci95High": 0.09335412602200753,
+        "ci95Low": 0.07937251962003182,
+        "eligibleOrders": 6190,
+        "group": "furniture_decor",
+        "lateOrders": 533,
+        "lateRate": 0.08610662358642973
+      },
+      {
+        "averageReviewScore": 4.12,
+        "ci95High": 0.09317919532269832,
+        "ci95Low": 0.07836098628040149,
+        "eligibleOrders": 5475,
+        "group": "watches_gifts",
+        "lateOrders": 468,
+        "lateRate": 0.08547945205479453
+      },
+      {
+        "averageReviewScore": 4.06,
+        "ci95High": 0.09442095363456995,
+        "ci95Low": 0.07724170872050157,
+        "eligibleOrders": 4073,
+        "group": "telephony",
+        "lateOrders": 348,
+        "lateRate": 0.085440707095507
+      },
+      {
+        "averageReviewScore": 4.18,
+        "ci95High": 0.10044552837140726,
+        "ci95Low": 0.06658292758638952,
+        "eligibleOrders": 1013,
+        "group": "consoles_games",
+        "lateOrders": 83,
+        "lateRate": 0.08193484698914116
+      },
+      {
+        "averageReviewScore": 4.2,
+        "ci95High": 0.0900338582814883,
+        "ci95Low": 0.07175655780296217,
+        "eligibleOrders": 3407,
+        "group": "garden_tools",
+        "lateOrders": 274,
+        "lateRate": 0.08042265923099501
+      },
+      {
+        "averageReviewScore": 4.31,
+        "ci95High": 0.08985529725693235,
+        "ci95Low": 0.06762864867595776,
+        "eligibleOrders": 2243,
+        "group": "stationery",
+        "lateOrders": 175,
+        "lateRate": 0.0780205082478823
+      },
+      {
+        "averageReviewScore": 4.23,
+        "ci95High": 0.08411206142911654,
+        "ci95Low": 0.07197415670481144,
+        "eligibleOrders": 7491,
+        "group": "sports_leisure",
+        "lateOrders": 583,
+        "lateRate": 0.07782672540381791
+      },
+      {
+        "averageReviewScore": 4.08,
+        "ci95High": 0.08397841019902698,
+        "ci95Low": 0.07100409899840611,
+        "eligibleOrders": 6512,
+        "group": "computers_accessories",
+        "lateOrders": 503,
+        "lateRate": 0.07724201474201474
+      },
+      {
+        "averageReviewScore": 4.24,
+        "ci95High": 0.08435181569140071,
+        "ci95Low": 0.06751145841283557,
+        "eligibleOrders": 3788,
+        "group": "toys",
+        "lateOrders": 286,
+        "lateRate": 0.07550158394931362
+      },
+      {
+        "averageReviewScore": 4.27,
+        "ci95High": 0.08411098211461315,
+        "ci95Low": 0.06553600260069128,
+        "eligibleOrders": 3069,
+        "group": "perfumery",
+        "lateOrders": 228,
+        "lateRate": 0.07429130009775171
+      },
+      {
+        "averageReviewScore": 4.21,
+        "ci95High": 0.07718717960576142,
+        "ci95Low": 0.06388668120299228,
+        "eligibleOrders": 5680,
+        "group": "housewares",
+        "lateOrders": 399,
+        "lateRate": 0.07024647887323944
+      },
+      {
+        "averageReviewScore": 4.23,
+        "ci95High": 0.07741257605460602,
+        "ci95Low": 0.06071408237801449,
+        "eligibleOrders": 3528,
+        "group": "cool_stuff",
+        "lateOrders": 242,
+        "lateRate": 0.06859410430839002
+      },
+      {
+        "averageReviewScore": 4.22,
+        "ci95High": 0.08716220679982782,
+        "ci95Low": 0.05113790649411877,
+        "eligibleOrders": 747,
+        "group": "home_appliances",
+        "lateOrders": 50,
+        "lateRate": 0.06693440428380187
+      },
+      {
+        "averageReviewScore": 4.24,
+        "ci95High": 0.07874679108580442,
+        "ci95Low": 0.05576108749025156,
+        "eligibleOrders": 1809,
+        "group": "fashion_bags_accessories",
+        "lateOrders": 120,
+        "lateRate": 0.06633499170812604
+      },
+      {
+        "averageReviewScore": 4.26,
+        "ci95High": 0.08476029404464926,
+        "ci95Low": 0.04594704035082227,
+        "eligibleOrders": 607,
+        "group": "small_appliances",
+        "lateOrders": 38,
+        "lateRate": 0.06260296540362438
+      },
+      {
+        "averageReviewScore": 4.28,
+        "ci95High": 0.0738559671374583,
+        "ci95Low": 0.05083876136521796,
+        "eligibleOrders": 1679,
+        "group": "pet_shop",
+        "lateOrders": 103,
+        "lateRate": 0.06134603930911257
+      },
+      {
+        "averageReviewScore": 4.37,
+        "ci95High": 0.06993859711230255,
+        "ci95Low": 0.041907366553389294,
+        "eligibleOrders": 1014,
+        "group": "luggage_accessories",
+        "lateOrders": 55,
+        "lateRate": 0.054240631163708086
+      }
+    ],
+    "minimumEligibleOrders": 500,
+    "states": [
+      {
+        "averageReviewScore": 3.83,
+        "ci95High": 0.2273297818973976,
+        "ci95Low": 0.16920881243974611,
+        "eligibleOrders": 717,
+        "group": "MA",
+        "lateOrders": 141,
+        "lateRate": 0.19665271966527198
+      },
+      {
+        "averageReviewScore": 3.94,
+        "ci95High": 0.1740225269361395,
+        "ci95Low": 0.13454362993299385,
+        "eligibleOrders": 1279,
+        "group": "CE",
+        "lateOrders": 196,
+        "lateRate": 0.1532447224394058
+      },
+      {
+        "averageReviewScore": 3.93,
+        "ci95High": 0.1527116889868911,
+        "ci95Low": 0.1288484636816192,
+        "eligibleOrders": 3256,
+        "group": "BA",
+        "lateOrders": 457,
+        "lateRate": 0.14035626535626536
+      },
+      {
+        "averageReviewScore": 3.97,
+        "ci95High": 0.14087243376110475,
+        "ci95Low": 0.12882840948889057,
+        "eligibleOrders": 12350,
+        "group": "RJ",
+        "lateOrders": 1664,
+        "lateRate": 0.13473684210526315
+      },
+      {
+        "averageReviewScore": 3.91,
+        "ci95High": 0.14619223556959496,
+        "ci95Low": 0.10420898308851011,
+        "eligibleOrders": 946,
+        "group": "PA",
+        "lateOrders": 117,
+        "lateRate": 0.12367864693446089
+      },
+      {
+        "averageReviewScore": 4.08,
+        "ci95High": 0.1374132554496738,
+        "ci95Low": 0.1086500111742224,
+        "eligibleOrders": 1995,
+        "group": "ES",
+        "lateOrders": 244,
+        "lateRate": 0.12230576441102757
+      },
+      {
+        "averageReviewScore": 4.16,
+        "ci95High": 0.1413379228645601,
+        "ci95Low": 0.09395110099361621,
+        "eligibleOrders": 701,
+        "group": "MS",
+        "lateOrders": 81,
+        "lateRate": 0.11554921540656206
+      },
+      {
+        "averageReviewScore": 4.08,
+        "ci95High": 0.14017727224470833,
+        "ci95Low": 0.08607479894700233,
+        "eligibleOrders": 517,
+        "group": "PB",
+        "lateOrders": 57,
+        "lateRate": 0.1102514506769826
+      },
+      {
+        "averageReviewScore": 4.08,
+        "ci95High": 0.12416633503216673,
+        "ci95Low": 0.09366459420584508,
+        "eligibleOrders": 1593,
+        "group": "PE",
+        "lateOrders": 172,
+        "lateRate": 0.10797237915881984
+      },
+      {
+        "averageReviewScore": 4.13,
+        "ci95High": 0.10778145609616868,
+        "ci95Low": 0.08823897661686356,
+        "eligibleOrders": 3546,
+        "group": "SC",
+        "lateOrders": 346,
+        "lateRate": 0.09757473209249859
+      },
+      {
+        "averageReviewScore": 4.1,
+        "ci95High": 0.09473227935780303,
+        "ci95Low": 0.07042205138317469,
+        "eligibleOrders": 1957,
+        "group": "GO",
+        "lateOrders": 160,
+        "lateRate": 0.08175779253960143
+      },
+      {
+        "averageReviewScore": 4.19,
+        "ci95High": 0.0787015276542759,
+        "ci95Low": 0.06487816982426872,
+        "eligibleOrders": 5344,
+        "group": "RS",
+        "lateOrders": 382,
+        "lateRate": 0.07148203592814371
+      },
+      {
+        "averageReviewScore": 4.13,
+        "ci95High": 0.08249634913758302,
+        "ci95Low": 0.06043269067010523,
+        "eligibleOrders": 2080,
+        "group": "DF",
+        "lateOrders": 147,
+        "lateRate": 0.07067307692307692
+      },
+      {
+        "averageReviewScore": 4.15,
+        "ci95High": 0.08620049931108763,
+        "ci95Low": 0.0529719988829402,
+        "eligibleOrders": 886,
+        "group": "MT",
+        "lateOrders": 60,
+        "lateRate": 0.06772009029345373
+      },
+      {
+        "averageReviewScore": 4.25,
+        "ci95High": 0.06128309911931901,
+        "ci95Low": 0.05669458281908586,
+        "eligibleOrders": 40494,
+        "group": "SP",
+        "lateOrders": 2387,
+        "lateRate": 0.05894700449449301
+      },
+      {
+        "averageReviewScore": 4.19,
+        "ci95High": 0.06048848972268956,
+        "ci95Low": 0.05201893199592412,
+        "eligibleOrders": 11354,
+        "group": "MG",
+        "lateOrders": 637,
+        "lateRate": 0.056103575832305796
+      },
+      {
+        "averageReviewScore": 4.24,
+        "ci95High": 0.056414473748898,
+        "ci95Low": 0.04422636541043238,
+        "eligibleOrders": 4923,
+        "group": "PR",
+        "lateOrders": 246,
+        "lateRate": 0.049969530773918344
+      }
+    ]
+  },
+  "coverage": {
+    "delivered_orders": 96478,
+    "inference_eligible_orders": 95824,
+    "missing_actual_delivery_timestamp": 8,
+    "missing_estimated_delivery_timestamp": 0,
+    "missing_order_level_review": 646,
+    "reviewed_orders": 95832,
+    "timing_eligible_orders": 96470
+  },
+  "dataset": {
+    "name": "Olist Brazilian E-Commerce Public Dataset",
+    "observationEnd": "2018-08",
+    "observationWindow": "2016-09 to 2018-08",
+    "status": "verified_historical_snapshot"
+  },
+  "heterogeneity": [
+    {
+      "degreesFreedom": 19,
+      "iSquared": 0.8857920310558078,
+      "includedGroups": 20,
+      "minimumOrdersPerTimingGroup": 20,
+      "pValue": 1.460445864901371e-25,
+      "q": 166.36317216432045,
+      "type": "month"
+    },
+    {
+      "degreesFreedom": 21,
+      "iSquared": 0.8273193601836188,
+      "includedGroups": 22,
+      "minimumOrdersPerTimingGroup": 20,
+      "pValue": 3.612148317271778e-16,
+      "q": 121.61178011808512,
+      "type": "state"
+    },
+    {
+      "degreesFreedom": 33,
+      "iSquared": 0.709008676431342,
+      "includedGroups": 34,
+      "minimumOrdersPerTimingGroup": 20,
+      "pValue": 9.440191739362677e-11,
+      "q": 113.40544314275338,
+      "type": "category"
+    }
+  ],
+  "lineage": {
+    "categorySource": "reports/phase2_outputs/delivery_by_category.csv",
+    "modelSource": "reports/phase25_outputs/research_results.json",
+    "phase2Summary": "reports/PHASE2_RESULTS.md",
+    "researchSql": "sql/analysis/10_delivery_satisfaction_research.sql",
+    "researchSummary": "reports/PHASE25_RESEARCH_RESULTS.md",
+    "stateSource": "reports/phase2_outputs/delivery_by_state.csv"
+  },
+  "missingReviewBounds": {
+    "lateMissingReviews": 165,
+    "observedRiskDifference": 0.4480020241369705,
+    "onTimeMissingReviews": 481,
+    "worstCaseMaximum": 0.45820158572133285,
+    "worstCaseMinimum": 0.43169181894739994
+  },
+  "observedContrast": {
+    "lateCi95High": 0.5510151917699405,
+    "lateCi95Low": 0.528699438112829,
+    "lateLowReviews": 4136,
+    "lateReviewed": 7661,
+    "lateRisk": 0.539877,
+    "onTimeCi95High": 0.09379977638647044,
+    "onTimeCi95Low": 0.08998634082845641,
+    "onTimeLowReviews": 8100,
+    "onTimeReviewed": 88163,
+    "onTimeRisk": 0.091875,
+    "rdCi95High": 0.45932437626774053,
+    "rdCi95Low": 0.43667967200620045,
+    "riskDifference": 0.4480020241369705
+  },
+  "primaryModel": {
+    "auc": 0.7121082763490595,
+    "brierScore": 0.09329831606448322,
+    "converged": true,
+    "events": 12236,
+    "iterations": 7,
+    "key": "primary_adjusted_model",
+    "label": "Primary adjusted model",
+    "oddsRatio": 11.407611357421521,
+    "orCi95High": 12.04012877174768,
+    "orCi95Low": 10.808322680678685,
+    "outcome": "low_reviews",
+    "parameters": 64,
+    "rdCi95High": 0.4368829379707283,
+    "rdCi95Low": 0.4130028585216011,
+    "reviewedOrders": 95824,
+    "riskDifference": 0.4249428982461647,
+    "standardizedLateRisk": 0.517349099691595,
+    "standardizedOnTimeRisk": 0.09240620144543031
+  },
+  "schemaVersion": 1,
+  "sensitivities": [
+    {
+      "auc": 0.7025975247479413,
+      "brierScore": 0.09126943739804737,
+      "converged": true,
+      "events": 11640,
+      "iterations": 7,
+      "key": "single_seller_sensitivity",
+      "label": "Single-seller orders",
+      "oddsRatio": 11.510856324742612,
+      "orCi95High": 12.151252248943225,
+      "orCi95Low": 10.904210579645424,
+      "outcome": "low_reviews",
+      "parameters": 63,
+      "rdCi95High": 0.43872285159948665,
+      "rdCi95Low": 0.4145977721985241,
+      "reviewedOrders": 94563,
+      "riskDifference": 0.4266603118990054,
+      "standardizedLateRisk": 0.5139875685145536,
+      "standardizedOnTimeRisk": 0.08732725661554823
+    },
+    {
+      "auc": 0.7285024497227248,
+      "brierScore": 0.07390169824267774,
+      "converged": true,
+      "events": 9312,
+      "iterations": 8,
+      "key": "score_one_sensitivity",
+      "label": "Score = 1 outcome",
+      "oddsRatio": 11.798645775860226,
+      "orCi95High": 12.484215414313205,
+      "orCi95Low": 11.150724136385996,
+      "outcome": "score_one_reviews",
+      "parameters": 64,
+      "rdCi95High": 0.38109515243264996,
+      "rdCi95Low": 0.3573664237625493,
+      "reviewedOrders": 95824,
+      "riskDifference": 0.3692307880975996,
+      "standardizedLateRisk": 0.43525199222685584,
+      "standardizedOnTimeRisk": 0.06602120412925623
+    }
+  ],
+  "subgroupEffects": [
+    {
+      "group": "[uncategorized]",
+      "lateLowReviews": 72,
+      "lateReviewed": 121,
+      "lateRisk": 0.5950413223140496,
+      "onTimeLowReviews": 150,
+      "onTimeReviewed": 1231,
+      "onTimeRisk": 0.12185215272136475,
+      "riskDifference": 0.47318916959268487,
+      "type": "category"
+    },
+    {
+      "group": "audio",
+      "lateLowReviews": 31,
+      "lateReviewed": 44,
+      "lateRisk": 0.7045454545454546,
+      "onTimeLowReviews": 42,
+      "onTimeReviewed": 297,
+      "onTimeRisk": 0.1414141414141414,
+      "riskDifference": 0.5631313131313131,
+      "type": "category"
+    },
+    {
+      "group": "auto",
+      "lateLowReviews": 170,
+      "lateReviewed": 323,
+      "lateRisk": 0.5263157894736842,
+      "onTimeLowReviews": 312,
+      "onTimeReviewed": 3450,
+      "onTimeRisk": 0.09043478260869565,
+      "riskDifference": 0.43588100686498854,
+      "type": "category"
+    },
+    {
+      "group": "baby",
+      "lateLowReviews": 150,
+      "lateReviewed": 249,
+      "lateRisk": 0.6024096385542169,
+      "onTimeLowReviews": 226,
+      "onTimeReviewed": 2485,
+      "onTimeRisk": 0.0909456740442656,
+      "riskDifference": 0.5114639645099514,
+      "type": "category"
+    },
+    {
+      "group": "bed_bath_table",
+      "lateLowReviews": 439,
+      "lateReviewed": 786,
+      "lateRisk": 0.5585241730279898,
+      "onTimeLowReviews": 992,
+      "onTimeReviewed": 8324,
+      "onTimeRisk": 0.11917347429120614,
+      "riskDifference": 0.4393506987367837,
+      "type": "category"
+    },
+    {
+      "group": "books_general_interest",
+      "lateLowReviews": 14,
+      "lateReviewed": 33,
+      "lateRisk": 0.42424242424242425,
+      "onTimeLowReviews": 16,
+      "onTimeReviewed": 455,
+      "onTimeRisk": 0.035164835164835165,
+      "riskDifference": 0.3890775890775891,
+      "type": "category"
+    },
+    {
+      "group": "books_technical",
+      "lateLowReviews": 7,
+      "lateReviewed": 28,
+      "lateRisk": 0.25,
+      "onTimeLowReviews": 17,
+      "onTimeReviewed": 225,
+      "onTimeRisk": 0.07555555555555556,
+      "riskDifference": 0.17444444444444446,
+      "type": "category"
+    },
+    {
+      "group": "computers_accessories",
+      "lateLowReviews": 264,
+      "lateReviewed": 493,
+      "lateRisk": 0.5354969574036511,
+      "onTimeLowReviews": 673,
+      "onTimeReviewed": 5988,
+      "onTimeRisk": 0.11239144956579826,
+      "riskDifference": 0.42310550783785283,
+      "type": "category"
+    },
+    {
+      "group": "consoles_games",
+      "lateLowReviews": 39,
+      "lateReviewed": 80,
+      "lateRisk": 0.4875,
+      "onTimeLowReviews": 72,
+      "onTimeReviewed": 924,
+      "onTimeRisk": 0.07792207792207792,
+      "riskDifference": 0.4095779220779221,
+      "type": "category"
+    },
+    {
+      "group": "construction_tools_construction",
+      "lateLowReviews": 34,
+      "lateReviewed": 65,
+      "lateRisk": 0.5230769230769231,
+      "onTimeLowReviews": 58,
+      "onTimeReviewed": 657,
+      "onTimeRisk": 0.0882800608828006,
+      "riskDifference": 0.4347968621941225,
+      "type": "category"
+    },
+    {
+      "group": "construction_tools_lights",
+      "lateLowReviews": 9,
+      "lateReviewed": 21,
+      "lateRisk": 0.42857142857142855,
+      "onTimeLowReviews": 11,
+      "onTimeReviewed": 205,
+      "onTimeRisk": 0.05365853658536585,
+      "riskDifference": 0.3749128919860627,
+      "type": "category"
+    },
+    {
+      "group": "cool_stuff",
+      "lateLowReviews": 132,
+      "lateReviewed": 235,
+      "lateRisk": 0.5617021276595745,
+      "onTimeLowReviews": 249,
+      "onTimeReviewed": 3265,
+      "onTimeRisk": 0.07626339969372128,
+      "riskDifference": 0.4854387279658532,
+      "type": "category"
+    },
+    {
+      "group": "electronics",
+      "lateLowReviews": 121,
+      "lateReviewed": 245,
+      "lateRisk": 0.49387755102040815,
+      "onTimeLowReviews": 203,
+      "onTimeReviewed": 2239,
+      "onTimeRisk": 0.09066547565877624,
+      "riskDifference": 0.4032120753616319,
+      "type": "category"
+    },
+    {
+      "group": "fashion_bags_accessories",
+      "lateLowReviews": 65,
+      "lateReviewed": 119,
+      "lateRisk": 0.5462184873949579,
+      "onTimeLowReviews": 116,
+      "onTimeReviewed": 1682,
+      "onTimeRisk": 0.06896551724137931,
+      "riskDifference": 0.4772529701535786,
+      "type": "category"
+    },
+    {
+      "group": "food",
+      "lateLowReviews": 18,
+      "lateReviewed": 43,
+      "lateRisk": 0.4186046511627907,
+      "onTimeLowReviews": 25,
+      "onTimeReviewed": 388,
+      "onTimeRisk": 0.06443298969072164,
+      "riskDifference": 0.3541716614720691,
+      "type": "category"
+    },
+    {
+      "group": "furniture_decor",
+      "lateLowReviews": 284,
+      "lateReviewed": 524,
+      "lateRisk": 0.5419847328244275,
+      "onTimeLowReviews": 626,
+      "onTimeReviewed": 5620,
+      "onTimeRisk": 0.11138790035587189,
+      "riskDifference": 0.4305968324685556,
+      "type": "category"
+    },
+    {
+      "group": "furniture_living_room",
+      "lateLowReviews": 20,
+      "lateReviewed": 33,
+      "lateRisk": 0.6060606060606061,
+      "onTimeLowReviews": 35,
+      "onTimeReviewed": 370,
+      "onTimeRisk": 0.0945945945945946,
+      "riskDifference": 0.5114660114660114,
+      "type": "category"
+    },
+    {
+      "group": "garden_tools",
+      "lateLowReviews": 149,
+      "lateReviewed": 270,
+      "lateRisk": 0.5518518518518518,
+      "onTimeLowReviews": 252,
+      "onTimeReviewed": 3118,
+      "onTimeRisk": 0.08082103912764593,
+      "riskDifference": 0.4710308127242059,
+      "type": "category"
+    },
+    {
+      "group": "health_beauty",
+      "lateLowReviews": 395,
+      "lateReviewed": 757,
+      "lateRisk": 0.5217965653896962,
+      "onTimeLowReviews": 574,
+      "onTimeReviewed": 7811,
+      "onTimeRisk": 0.07348610933299193,
+      "riskDifference": 0.4483104560567043,
+      "type": "category"
+    },
+    {
+      "group": "home_appliances",
+      "lateLowReviews": 23,
+      "lateReviewed": 50,
+      "lateRisk": 0.46,
+      "onTimeLowReviews": 57,
+      "onTimeReviewed": 694,
+      "onTimeRisk": 0.08213256484149856,
+      "riskDifference": 0.37786743515850146,
+      "type": "category"
+    },
+    {
+      "group": "home_confort",
+      "lateLowReviews": 19,
+      "lateReviewed": 38,
+      "lateRisk": 0.5,
+      "onTimeLowReviews": 44,
+      "onTimeReviewed": 314,
+      "onTimeRisk": 0.14012738853503184,
+      "riskDifference": 0.3598726114649682,
+      "type": "category"
+    },
+    {
+      "group": "home_construction",
+      "lateLowReviews": 18,
+      "lateReviewed": 38,
+      "lateRisk": 0.47368421052631576,
+      "onTimeLowReviews": 56,
+      "onTimeReviewed": 430,
+      "onTimeRisk": 0.13023255813953488,
+      "riskDifference": 0.3434516523867809,
+      "type": "category"
+    },
+    {
+      "group": "housewares",
+      "lateLowReviews": 195,
+      "lateReviewed": 390,
+      "lateRisk": 0.5,
+      "onTimeLowReviews": 452,
+      "onTimeReviewed": 5256,
+      "onTimeRisk": 0.08599695585996955,
+      "riskDifference": 0.4140030441400304,
+      "type": "category"
+    },
+    {
+      "group": "luggage_accessories",
+      "lateLowReviews": 27,
+      "lateReviewed": 54,
+      "lateRisk": 0.5,
+      "onTimeLowReviews": 55,
+      "onTimeReviewed": 956,
+      "onTimeRisk": 0.05753138075313807,
+      "riskDifference": 0.4424686192468619,
+      "type": "category"
+    },
+    {
+      "group": "musical_instruments",
+      "lateLowReviews": 33,
+      "lateReviewed": 54,
+      "lateRisk": 0.6111111111111112,
+      "onTimeLowReviews": 36,
+      "onTimeReviewed": 547,
+      "onTimeRisk": 0.06581352833638025,
+      "riskDifference": 0.545297582774731,
+      "type": "category"
+    },
+    {
+      "group": "office_furniture",
+      "lateLowReviews": 62,
+      "lateReviewed": 112,
+      "lateRisk": 0.5535714285714286,
+      "onTimeLowReviews": 210,
+      "onTimeReviewed": 1129,
+      "onTimeRisk": 0.18600531443755536,
+      "riskDifference": 0.36756611413387325,
+      "type": "category"
+    },
+    {
+      "group": "perfumery",
+      "lateLowReviews": 128,
+      "lateReviewed": 226,
+      "lateRisk": 0.5663716814159292,
+      "onTimeLowReviews": 227,
+      "onTimeReviewed": 2833,
+      "onTimeRisk": 0.0801270737733851,
+      "riskDifference": 0.48624460764254407,
+      "type": "category"
+    },
+    {
+      "group": "pet_shop",
+      "lateLowReviews": 51,
+      "lateReviewed": 101,
+      "lateRisk": 0.504950495049505,
+      "onTimeLowReviews": 123,
+      "onTimeReviewed": 1570,
+      "onTimeRisk": 0.07834394904458598,
+      "riskDifference": 0.426606546004919,
+      "type": "category"
+    },
+    {
+      "group": "small_appliances",
+      "lateLowReviews": 15,
+      "lateReviewed": 37,
+      "lateRisk": 0.40540540540540543,
+      "onTimeLowReviews": 54,
+      "onTimeReviewed": 565,
+      "onTimeRisk": 0.09557522123893805,
+      "riskDifference": 0.30983018416646735,
+      "type": "category"
+    },
+    {
+      "group": "sports_leisure",
+      "lateLowReviews": 323,
+      "lateReviewed": 574,
+      "lateRisk": 0.5627177700348432,
+      "onTimeLowReviews": 511,
+      "onTimeReviewed": 6873,
+      "onTimeRisk": 0.07434890149861778,
+      "riskDifference": 0.48836886853622546,
+      "type": "category"
+    },
+    {
+      "group": "stationery",
+      "lateLowReviews": 94,
+      "lateReviewed": 173,
+      "lateRisk": 0.5433526011560693,
+      "onTimeLowReviews": 122,
+      "onTimeReviewed": 2057,
+      "onTimeRisk": 0.05930967428293631,
+      "riskDifference": 0.484042926873133,
+      "type": "category"
+    },
+    {
+      "group": "telephony",
+      "lateLowReviews": 166,
+      "lateReviewed": 344,
+      "lateRisk": 0.48255813953488375,
+      "onTimeLowReviews": 398,
+      "onTimeReviewed": 3705,
+      "onTimeRisk": 0.10742240215924427,
+      "riskDifference": 0.3751357373756395,
+      "type": "category"
+    },
+    {
+      "group": "toys",
+      "lateLowReviews": 162,
+      "lateReviewed": 275,
+      "lateRisk": 0.5890909090909091,
+      "onTimeLowReviews": 262,
+      "onTimeReviewed": 3483,
+      "onTimeRisk": 0.07522250933103647,
+      "riskDifference": 0.5138683997598726,
+      "type": "category"
+    },
+    {
+      "group": "watches_gifts",
+      "lateLowReviews": 259,
+      "lateReviewed": 456,
+      "lateRisk": 0.5679824561403509,
+      "onTimeLowReviews": 481,
+      "onTimeReviewed": 4979,
+      "onTimeRisk": 0.09660574412532637,
+      "riskDifference": 0.47137671201502457,
+      "type": "category"
+    },
+    {
+      "group": "2017-01",
+      "lateLowReviews": 16,
+      "lateReviewed": 22,
+      "lateRisk": 0.7272727272727273,
+      "onTimeLowReviews": 73,
+      "onTimeReviewed": 719,
+      "onTimeRisk": 0.10152990264255911,
+      "riskDifference": 0.6257428246301682,
+      "type": "month"
+    },
+    {
+      "group": "2017-02",
+      "lateLowReviews": 29,
+      "lateReviewed": 46,
+      "lateRisk": 0.6304347826086957,
+      "onTimeLowReviews": 153,
+      "onTimeReviewed": 1597,
+      "onTimeRisk": 0.09580463368816532,
+      "riskDifference": 0.5346301489205304,
+      "type": "month"
+    },
+    {
+      "group": "2017-03",
+      "lateLowReviews": 70,
+      "lateReviewed": 139,
+      "lateRisk": 0.5035971223021583,
+      "onTimeLowReviews": 214,
+      "onTimeReviewed": 2388,
+      "onTimeRisk": 0.08961474036850921,
+      "riskDifference": 0.41398238193364906,
+      "type": "month"
+    },
+    {
+      "group": "2017-04",
+      "lateLowReviews": 90,
+      "lateReviewed": 177,
+      "lateRisk": 0.5084745762711864,
+      "onTimeLowReviews": 203,
+      "onTimeReviewed": 2113,
+      "onTimeRisk": 0.09607193563653574,
+      "riskDifference": 0.4124026406346507,
+      "type": "month"
+    },
+    {
+      "group": "2017-05",
+      "lateLowReviews": 53,
+      "lateReviewed": 121,
+      "lateRisk": 0.4380165289256198,
+      "onTimeLowReviews": 299,
+      "onTimeReviewed": 3396,
+      "onTimeRisk": 0.08804475853945819,
+      "riskDifference": 0.3499717703861616,
+      "type": "month"
+    },
+    {
+      "group": "2017-06",
+      "lateLowReviews": 57,
+      "lateReviewed": 118,
+      "lateRisk": 0.4830508474576271,
+      "onTimeLowReviews": 273,
+      "onTimeReviewed": 2993,
+      "onTimeRisk": 0.09121282993651854,
+      "riskDifference": 0.3918380175211086,
+      "type": "month"
+    },
+    {
+      "group": "2017-07",
+      "lateLowReviews": 71,
+      "lateReviewed": 129,
+      "lateRisk": 0.5503875968992248,
+      "onTimeLowReviews": 310,
+      "onTimeReviewed": 3713,
+      "onTimeRisk": 0.08349043899811473,
+      "riskDifference": 0.4668971579011101,
+      "type": "month"
+    },
+    {
+      "group": "2017-08",
+      "lateLowReviews": 66,
+      "lateReviewed": 138,
+      "lateRisk": 0.4782608695652174,
+      "onTimeLowReviews": 325,
+      "onTimeReviewed": 4027,
+      "onTimeRisk": 0.08070523963248076,
+      "riskDifference": 0.39755562993273663,
+      "type": "month"
+    },
+    {
+      "group": "2017-09",
+      "lateLowReviews": 100,
+      "lateReviewed": 211,
+      "lateRisk": 0.47393364928909953,
+      "onTimeLowReviews": 320,
+      "onTimeReviewed": 3907,
+      "onTimeRisk": 0.08190427437931917,
+      "riskDifference": 0.39202937490978035,
+      "type": "month"
+    },
+    {
+      "group": "2017-10",
+      "lateLowReviews": 102,
+      "lateReviewed": 229,
+      "lateRisk": 0.44541484716157204,
+      "onTimeLowReviews": 388,
+      "onTimeReviewed": 4217,
+      "onTimeRisk": 0.09200853687455537,
+      "riskDifference": 0.35340631028701663,
+      "type": "month"
+    },
+    {
+      "group": "2017-11",
+      "lateLowReviews": 594,
+      "lateReviewed": 1024,
+      "lateRisk": 0.580078125,
+      "onTimeLowReviews": 602,
+      "onTimeReviewed": 6213,
+      "onTimeRisk": 0.09689361017221954,
+      "riskDifference": 0.48318451482778046,
+      "type": "month"
+    },
+    {
+      "group": "2017-12",
+      "lateLowReviews": 281,
+      "lateReviewed": 451,
+      "lateRisk": 0.623059866962306,
+      "onTimeLowReviews": 506,
+      "onTimeReviewed": 5010,
+      "onTimeRisk": 0.10099800399201597,
+      "riskDifference": 0.52206186297029,
+      "type": "month"
+    },
+    {
+      "group": "2018-01",
+      "lateLowReviews": 287,
+      "lateReviewed": 455,
+      "lateRisk": 0.6307692307692307,
+      "onTimeLowReviews": 672,
+      "onTimeReviewed": 6558,
+      "onTimeRisk": 0.10247026532479414,
+      "riskDifference": 0.5282989654444366,
+      "type": "month"
+    },
+    {
+      "group": "2018-02",
+      "lateLowReviews": 673,
+      "lateReviewed": 1034,
+      "lateRisk": 0.6508704061895552,
+      "onTimeLowReviews": 580,
+      "onTimeReviewed": 5473,
+      "onTimeRisk": 0.10597478530970217,
+      "riskDifference": 0.544895620879853,
+      "type": "month"
+    },
+    {
+      "group": "2018-03",
+      "lateLowReviews": 905,
+      "lateReviewed": 1463,
+      "lateRisk": 0.618591934381408,
+      "onTimeLowReviews": 563,
+      "onTimeReviewed": 5485,
+      "onTimeRisk": 0.10264357338195078,
+      "riskDifference": 0.5159483609994573,
+      "type": "month"
+    },
+    {
+      "group": "2018-04",
+      "lateLowReviews": 196,
+      "lateReviewed": 351,
+      "lateRisk": 0.5584045584045584,
+      "onTimeLowReviews": 597,
+      "onTimeReviewed": 6401,
+      "onTimeRisk": 0.09326667708170598,
+      "riskDifference": 0.4651378813228524,
+      "type": "month"
+    },
+    {
+      "group": "2018-05",
+      "lateLowReviews": 212,
+      "lateReviewed": 550,
+      "lateRisk": 0.38545454545454544,
+      "onTimeLowReviews": 511,
+      "onTimeReviewed": 6172,
+      "onTimeRisk": 0.08279325988334413,
+      "riskDifference": 0.3026612855712013,
+      "type": "month"
+    },
+    {
+      "group": "2018-06",
+      "lateLowReviews": 45,
+      "lateReviewed": 83,
+      "lateRisk": 0.5421686746987951,
+      "onTimeLowReviews": 561,
+      "onTimeReviewed": 5989,
+      "onTimeRisk": 0.09367173150776423,
+      "riskDifference": 0.44849694319103095,
+      "type": "month"
+    },
+    {
+      "group": "2018-07",
+      "lateLowReviews": 104,
+      "lateReviewed": 266,
+      "lateRisk": 0.39097744360902253,
+      "onTimeLowReviews": 487,
+      "onTimeReviewed": 5852,
+      "onTimeRisk": 0.08321941216678058,
+      "riskDifference": 0.30775803144224195,
+      "type": "month"
+    },
+    {
+      "group": "2018-08",
+      "lateLowReviews": 183,
+      "lateReviewed": 651,
+      "lateRisk": 0.28110599078341014,
+      "onTimeLowReviews": 421,
+      "onTimeReviewed": 5679,
+      "onTimeRisk": 0.07413276985384751,
+      "riskDifference": 0.20697322092956263,
+      "type": "month"
+    },
+    {
+      "group": "AL",
+      "lateLowReviews": 56,
+      "lateReviewed": 92,
+      "lateRisk": 0.6086956521739131,
+      "onTimeLowReviews": 27,
+      "onTimeReviewed": 302,
+      "onTimeRisk": 0.08940397350993377,
+      "riskDifference": 0.5192916786639793,
+      "type": "state"
+    },
+    {
+      "group": "BA",
+      "lateLowReviews": 238,
+      "lateReviewed": 443,
+      "lateRisk": 0.5372460496613995,
+      "onTimeLowReviews": 312,
+      "onTimeReviewed": 2786,
+      "onTimeRisk": 0.11198851399856424,
+      "riskDifference": 0.4252575356628353,
+      "type": "state"
+    },
+    {
+      "group": "CE",
+      "lateLowReviews": 123,
+      "lateReviewed": 194,
+      "lateRisk": 0.634020618556701,
+      "onTimeLowReviews": 95,
+      "onTimeReviewed": 1079,
+      "onTimeRisk": 0.08804448563484708,
+      "riskDifference": 0.5459761329218539,
+      "type": "state"
+    },
+    {
+      "group": "DF",
+      "lateLowReviews": 88,
+      "lateReviewed": 147,
+      "lateRisk": 0.5986394557823129,
+      "onTimeLowReviews": 182,
+      "onTimeReviewed": 1923,
+      "onTimeRisk": 0.09464378575143005,
+      "riskDifference": 0.5039956700308829,
+      "type": "state"
+    },
+    {
+      "group": "ES",
+      "lateLowReviews": 117,
+      "lateReviewed": 234,
+      "lateRisk": 0.5,
+      "onTimeLowReviews": 154,
+      "onTimeReviewed": 1735,
+      "onTimeRisk": 0.08876080691642652,
+      "riskDifference": 0.4112391930835735,
+      "type": "state"
+    },
+    {
+      "group": "GO",
+      "lateLowReviews": 81,
+      "lateReviewed": 155,
+      "lateRisk": 0.5225806451612903,
+      "onTimeLowReviews": 174,
+      "onTimeReviewed": 1791,
+      "onTimeRisk": 0.09715242881072027,
+      "riskDifference": 0.42542821635057004,
+      "type": "state"
+    },
+    {
+      "group": "MA",
+      "lateLowReviews": 80,
+      "lateReviewed": 137,
+      "lateRisk": 0.583941605839416,
+      "onTimeLowReviews": 62,
+      "onTimeReviewed": 575,
+      "onTimeRisk": 0.10782608695652174,
+      "riskDifference": 0.4761155188828943,
+      "type": "state"
+    },
+    {
+      "group": "MG",
+      "lateLowReviews": 310,
+      "lateReviewed": 622,
+      "lateRisk": 0.4983922829581994,
+      "onTimeLowReviews": 1011,
+      "onTimeReviewed": 10663,
+      "onTimeRisk": 0.09481384225827628,
+      "riskDifference": 0.4035784406999231,
+      "type": "state"
+    },
+    {
+      "group": "MS",
+      "lateLowReviews": 42,
+      "lateReviewed": 81,
+      "lateRisk": 0.5185185185185185,
+      "onTimeLowReviews": 51,
+      "onTimeReviewed": 618,
+      "onTimeRisk": 0.0825242718446602,
+      "riskDifference": 0.4359942466738583,
+      "type": "state"
+    },
+    {
+      "group": "MT",
+      "lateLowReviews": 28,
+      "lateReviewed": 58,
+      "lateRisk": 0.4827586206896552,
+      "onTimeLowReviews": 84,
+      "onTimeReviewed": 821,
+      "onTimeRisk": 0.1023142509135201,
+      "riskDifference": 0.3804443697761351,
+      "type": "state"
+    },
+    {
+      "group": "PA",
+      "lateLowReviews": 74,
+      "lateReviewed": 111,
+      "lateRisk": 0.6666666666666666,
+      "onTimeLowReviews": 93,
+      "onTimeReviewed": 822,
+      "onTimeRisk": 0.11313868613138686,
+      "riskDifference": 0.5535279805352797,
+      "type": "state"
+    },
+    {
+      "group": "PB",
+      "lateLowReviews": 32,
+      "lateReviewed": 55,
+      "lateRisk": 0.5818181818181818,
+      "onTimeLowReviews": 44,
+      "onTimeReviewed": 457,
+      "onTimeRisk": 0.0962800875273523,
+      "riskDifference": 0.4855380942908295,
+      "type": "state"
+    },
+    {
+      "group": "PE",
+      "lateLowReviews": 108,
+      "lateReviewed": 168,
+      "lateRisk": 0.6428571428571429,
+      "onTimeLowReviews": 126,
+      "onTimeReviewed": 1411,
+      "onTimeRisk": 0.0892983699503898,
+      "riskDifference": 0.5535587729067531,
+      "type": "state"
+    },
+    {
+      "group": "PI",
+      "lateLowReviews": 43,
+      "lateReviewed": 75,
+      "lateRisk": 0.5733333333333334,
+      "onTimeLowReviews": 33,
+      "onTimeReviewed": 396,
+      "onTimeRisk": 0.08333333333333333,
+      "riskDifference": 0.49000000000000005,
+      "type": "state"
+    },
+    {
+      "group": "PR",
+      "lateLowReviews": 106,
+      "lateReviewed": 241,
+      "lateRisk": 0.43983402489626555,
+      "onTimeLowReviews": 425,
+      "onTimeReviewed": 4659,
+      "onTimeRisk": 0.09122129212277312,
+      "riskDifference": 0.3486127327734924,
+      "type": "state"
+    },
+    {
+      "group": "RJ",
+      "lateLowReviews": 1085,
+      "lateReviewed": 1623,
+      "lateRisk": 0.6685150955021565,
+      "onTimeLowReviews": 1149,
+      "onTimeReviewed": 10588,
+      "onTimeRisk": 0.10851907820173781,
+      "riskDifference": 0.5599960173004187,
+      "type": "state"
+    },
+    {
+      "group": "RN",
+      "lateLowReviews": 33,
+      "lateReviewed": 50,
+      "lateRisk": 0.66,
+      "onTimeLowReviews": 28,
+      "onTimeReviewed": 421,
+      "onTimeRisk": 0.0665083135391924,
+      "riskDifference": 0.5934916864608076,
+      "type": "state"
+    },
+    {
+      "group": "RS",
+      "lateLowReviews": 210,
+      "lateReviewed": 378,
+      "lateRisk": 0.5555555555555556,
+      "onTimeLowReviews": 423,
+      "onTimeReviewed": 4948,
+      "onTimeRisk": 0.0854890864995958,
+      "riskDifference": 0.4700664690559598,
+      "type": "state"
+    },
+    {
+      "group": "SC",
+      "lateLowReviews": 175,
+      "lateReviewed": 339,
+      "lateRisk": 0.5162241887905604,
+      "onTimeLowReviews": 283,
+      "onTimeReviewed": 3180,
+      "onTimeRisk": 0.0889937106918239,
+      "riskDifference": 0.42723047809873654,
+      "type": "state"
+    },
+    {
+      "group": "SE",
+      "lateLowReviews": 34,
+      "lateReviewed": 50,
+      "lateRisk": 0.68,
+      "onTimeLowReviews": 29,
+      "onTimeReviewed": 284,
+      "onTimeRisk": 0.10211267605633803,
+      "riskDifference": 0.577887323943662,
+      "type": "state"
+    },
+    {
+      "group": "SP",
+      "lateLowReviews": 1047,
+      "lateReviewed": 2349,
+      "lateRisk": 0.44572158365261816,
+      "onTimeLowReviews": 3238,
+      "onTimeReviewed": 37917,
+      "onTimeRisk": 0.08539705145449271,
+      "riskDifference": 0.36032453219812544,
+      "type": "state"
+    },
+    {
+      "group": "TO",
+      "lateLowReviews": 13,
+      "lateReviewed": 35,
+      "lateRisk": 0.37142857142857144,
+      "onTimeLowReviews": 20,
+      "onTimeReviewed": 238,
+      "onTimeRisk": 0.08403361344537816,
+      "riskDifference": 0.28739495798319326,
+      "type": "state"
+    }
+  ]
+}

@@ -4,6 +4,6 @@
 # Phase 2.5 keeps the same zero-dependency policy; logistic/KM methods are tested local implementations.
 
 # Phase 3 interactive portfolio dependencies.
-streamlit>=1.42,<2
-pandas>=2.2,<3
-plotly>=5.24,<7
+streamlit==1.67.0
+pandas==2.3.3
+plotly==6.9.0

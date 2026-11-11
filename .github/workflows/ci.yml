@@ -1,0 +1,88 @@
+name: Repository validation
+
+on:
+  push:
+  pull_request:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  repository-hygiene:
+    name: Documentation, privacy, and repository hygiene
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Validate repository presentation and privacy
+        run: python scripts/check_repository.py
+      - name: Test repository checker
+        run: python -m unittest tests.test_repository_hygiene -v
+
+  python-clean-data:
+    name: Python and SQL tests without licensed Olist data
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+          cache-dependency-path: requirements.lock
+      - name: Install dashboard dependencies
+        run: python -m pip install --disable-pip-version-check -r requirements.lock
+      - name: Run clean-checkout Python, SQL, dashboard, and contract tests
+        run: >-
+          python -m unittest -v
+          tests.test_ingestion
+          tests.test_analysis
+          tests.test_analytics_mart
+          tests.test_dashboard_charts
+          tests.test_dashboard_data
+          tests.test_dashboard_smoke
+          tests.test_phase25_statistics
+          tests.test_web_data_contract
+          tests.test_repository_hygiene
+      - name: State real-data audit boundary
+        run: echo "tests.test_phase25_audit is intentionally not executed in clean CI; it requires the locally built licensed Olist database."
+
+  nextjs:
+    name: Next.js type, lint, contract, and production checks
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: web
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+      - name: Set up Python for deterministic aggregate publishing
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+          cache: npm
+          cache-dependency-path: web/package-lock.json
+      - name: Install exact frontend dependencies
+        run: npm ci
+      - name: Validate TypeScript
+        run: npm run typecheck
+      - name: Run ESLint
+        run: npm run lint
+      - name: Validate aggregate contracts
+        working-directory: .
+        run: python -m unittest tests.test_web_data_contract -v
+      - name: Build production frontend
+        run: npm run build
